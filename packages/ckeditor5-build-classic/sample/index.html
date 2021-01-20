@@ -28,9 +28,47 @@
 
 <script src="../build/ckeditor.js"></script>
 <script>
-	ClassicEditor.create( document.querySelector( '#editor' ) )
+	ClassicEditor.create( document.querySelector( '#editor' ) , {
+		simpleUpload: {
+			// Feature configuration.
+			uploadUrl: 'https://beneylu.dev/ent/api/1.0.1537869525045/media-library/media/home/file?reload=true',
+			withCredentials: false,
+		}}
+		)
 		.then( editor => {
 			window.editor = editor;
+			editor.on('change:data', function (evt) {
+				console.log(evt);
+			})
+			editor.model.schema.extend( 'image', { allowAttributes: 'src' } );
+
+			editor.conversion.for( 'upcast' ).attributeToAttribute( {
+				view: 'src',
+				model: 'src'
+			} );
+
+			editor.conversion.for( 'downcast' ).add( dispatcher => {
+				editor.conversion.for( 'dataDowncast' ).add( dispatcher => {
+					dispatcher.on(
+							'attribute:src',
+							( evt, data, conversionApi ) => {
+								console.log(evt);
+								if ( !conversionApi.consumable.test( data.item, 'attribute:linkHref' ) ) {
+									return;
+								}
+
+								if ( data.attributeNewValue ) {
+									data.attributeNewValue += `#time=${ ( new Date() ).getTime() }`;
+								}
+							},
+							{ priority: 'high' }
+					);
+				} );
+			} );
+
+			document.getElementById( 'getData' ).addEventListener( 'click', () => {
+				console.log( editor.getData() );
+			} );
 		} )
 		.catch( error => {
 			console.error( 'There was a problem initializing the editor.', error );

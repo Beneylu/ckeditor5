@@ -38,6 +38,7 @@ import Command from '@ckeditor/ckeditor5-core/src/command';
 import { addListToDropdown, createDropdown } from '@ckeditor/ckeditor5-ui/src/dropdown/utils';
 import Collection from '@ckeditor/ckeditor5-utils/src/collection';
 import Model from '@ckeditor/ckeditor5-ui/src/model';
+import ImageInsert from '@ckeditor/ckeditor5-image/src/imageinsert';
 
 class Placeholder extends Plugin {
 	static get requires() {
@@ -53,7 +54,6 @@ class PlaceholderCommand extends Command {
 			console.log(text);
 			const placeholder = writer.createElement('placeholder' , {name: value, });
 
-			placeholder.innerHTML = 'Salem';
 			// ... and insert it into the document.
 			editor.model.insertContent( placeholder );
 
@@ -66,8 +66,6 @@ class PlaceholderCommand extends Command {
 	refresh() {
 		const model = this.editor.model;
 		const selection = model.document.selection;
-		console.log(selection);
-		console.log(selection.focus);
 		const isAllowed = model.schema.checkChild( selection.focus.parent, 'span' );
 
 		this.isEnabled = true;
@@ -118,8 +116,8 @@ function getDropdownItemsDefinitions( placeholderNames ) {
 		const definition = {
 			type: 'button',
 			model: new Model( {
-				commandParam: name,
-				label: name,
+				commandParam: name.value,
+				label: name.label,
 				withText: true
 			} )
 		};
@@ -137,7 +135,6 @@ class PlaceholderEditing extends Plugin {
 	}
 
 	init() {
-		console.log( 'PlaceholderEditing#init() got called' );
 
 		this._defineSchema();
 		this._defineConverters();
@@ -149,7 +146,14 @@ class PlaceholderEditing extends Plugin {
 			viewToModelPositionOutsideModelElement( this.editor.model, viewElement => viewElement.hasClass( 'placeholder' ) )
 		);
 		this.editor.config.define( 'placeholderConfig', {
-			types: [ 'date', 'first name', 'surname' ]
+			types: [
+				{value : 'NOUN', label: 'Accord-GN'},
+				{value : 'VERB', label: 'Accord-V'},
+				{value : 'HOMOPHONIC', label: 'Homophone'},
+				{value : 'VOCABULARY', label: 'Lexique'},
+				{value : 'PUNCTUATION', label: 'Ponctuation'},
+				{value : 'NONE', label: 'Autre'},
+			],
 		} );
 	}
 
@@ -164,7 +168,7 @@ class PlaceholderEditing extends Plugin {
 			isInline: true,
 
 			// The inline widget is self-contained so it cannot be split by the caret and it can be selected:
-			isObject: true,
+			isObject: false,
 
 			// The placeholder can have many types, like date, name, surname, etc:
 			allowAttributes: [ 'name' ]
@@ -207,14 +211,25 @@ class PlaceholderEditing extends Plugin {
 			const name = modelItem.getAttribute( 'name' );
 
 			const placeholderView = viewWriter.createContainerElement( 'span', {
-				class: 'placeholder'
+				class: 'placeholder',
+				'data-bns-annotation': name,
+				'data-bns-annotation-guid': create_UUID(),
 			} );
 
 			// Insert the placeholder name (as a text).
-			const innerText = viewWriter.createText( '{' + name + '}' );
+			const innerText = viewWriter.createText( window.getSelection().toString() );
 			viewWriter.insert( viewWriter.createPositionAt( placeholderView, 0 ), innerText );
 
 			return placeholderView;
+		}
+		function create_UUID(){
+			var dt = new Date().getTime();
+			var uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+				var r = (dt + Math.random()*16)%16 | 0;
+				dt = Math.floor(dt/16);
+				return (c=='x' ? r :(r&0x3|0x8)).toString(16);
+			});
+			return uuid;
 		}
 	}
 }
@@ -235,6 +250,7 @@ ClassicEditor.builtinPlugins = [
 	Image,
 	ImageCaption,
 	ImageStyle,
+	ImageInsert,
 	ImageToolbar,
 	ImageUpload,
 	Indent,
@@ -266,6 +282,7 @@ ClassicEditor.defaultConfig = {
 			'outdent',
 			'|',
 			'imageUpload',
+			'imageInsert',
 			'blockQuote',
 			'insertTable',
 			'mediaEmbed',
