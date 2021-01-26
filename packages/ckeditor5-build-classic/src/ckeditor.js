@@ -210,16 +210,23 @@ class PlaceholderEditing extends Plugin {
 		function createPlaceholderView( modelItem, viewWriter ) {
 			const name = modelItem.getAttribute( 'name' );
 
+			let uuid = create_UUID();
 			const placeholderView = viewWriter.createContainerElement( 'span', {
 				class: 'placeholder',
 				'data-bns-annotation': name,
-				'data-bns-annotation-guid': create_UUID(),
+				'data-bns-annotation-guid': uuid,
 			} );
 
 			// Insert the placeholder name (as a text).
 			const innerText = viewWriter.createText( window.getSelection().toString() );
 			viewWriter.insert( viewWriter.createPositionAt( placeholderView, 0 ), innerText );
 
+			let event = new Event('annotation:add', {
+				guid: uuid,
+				type: name,
+				label: innerText,
+			});
+			window.dispatchEvent(event);
 			return placeholderView;
 		}
 		function create_UUID(){
