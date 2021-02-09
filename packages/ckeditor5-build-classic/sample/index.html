@@ -38,7 +38,14 @@
 		.then( editor => {
 			window.editor = editor;
 			editor.on('change:data', function (evt) {
+				console.log('change');
 				console.log(evt);
+			})
+
+			editor.on('annotation:add', function (evt, data) {
+				console.log('annotation');
+				console.log(evt);
+				console.log(data);
 			})
 			editor.model.schema.extend( 'image', { allowAttributes: 'src' } );
 
@@ -66,9 +73,6 @@
 				} );
 			} );
 
-			document.getElementById( 'getData' ).addEventListener( 'click', () => {
-				console.log( editor.getData() );
-			} );
 		} )
 		.catch( error => {
 			console.error( 'There was a problem initializing the editor.', error );

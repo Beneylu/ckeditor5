@@ -226,7 +226,13 @@ class PlaceholderEditing extends Plugin {
 				type: name,
 				label: innerText,
 			});
-			window.dispatchEvent(event);
+			console.log(editor);
+			editor.fire('annotation:add', {
+				guid: uuid,
+				type: name,
+				label: innerText,
+			});
+
 			return placeholderView;
 		}
 		function create_UUID(){
