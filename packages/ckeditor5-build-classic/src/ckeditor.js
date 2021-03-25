@@ -39,6 +39,7 @@ import { addListToDropdown, createDropdown } from '@ckeditor/ckeditor5-ui/src/dr
 import Collection from '@ckeditor/ckeditor5-utils/src/collection';
 import Model from '@ckeditor/ckeditor5-ui/src/model';
 import ImageInsert from '@ckeditor/ckeditor5-image/src/imageinsert';
+import ButtonView from '@ckeditor/ckeditor5-ui/src/button/buttonview';
 
 class Placeholder extends Plugin {
 	static get requires() {
@@ -247,6 +248,31 @@ class PlaceholderEditing extends Plugin {
 	}
 }
 
+
+class MediaLibraryPlugin extends Plugin {
+	init() {
+		const editor = this.editor;
+
+		editor.ui.componentFactory.add('medialibrary', locale => {
+			const view = new ButtonView(locale);
+
+			view.set({
+				label: 'mediathèque',
+				class: 'medialibrary-icon',
+				tooltip: true
+			});
+
+			// Callback executed once the icon is clicked
+			view.on('execute', () => {
+				// fire a JS event
+				editor.fire('open-medialibrary');
+			});
+
+			return view;
+		});
+	}
+}
+
 export default class ClassicEditor extends ClassicEditorBase {}
 
 // Plugins to include in the build.
@@ -277,6 +303,7 @@ ClassicEditor.builtinPlugins = [
 	TextTransformation,
 	Placeholder,
 	SimpleUploadAdapter,
+	MediaLibraryPlugin,
 ];
 
 // Editor configuration.
@@ -303,7 +330,8 @@ ClassicEditor.defaultConfig = {
 			'undo',
 			'redo',
 			'|',
-			'placeholder'
+			'placeholder',
+			'medialibrary'
 		]
 	},
 	image: {

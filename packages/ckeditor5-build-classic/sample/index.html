@@ -42,6 +42,10 @@
 				console.log(evt);
 			})
 
+			editor.on('open-medialibrary', function (evt) {
+				console.log('medialibrary');
+			})
+
 			editor.on('annotation:add', function (evt, data) {
 				console.log('annotation');
 				console.log(evt);
