@@ -1,0 +1,578 @@
+[
+  {
+    "title": ":muted_speaker:",
+    "character": "🔇"
+  },
+  {
+    "title": ":speaker_low_volume:",
+    "character": "🔈"
+  },
+  {
+    "title": ":speaker_medium_volume:",
+    "character": "🔉"
+  },
+  {
+    "title": ":speaker_high_volume:",
+    "character": "🔊"
+  },
+  {
+    "title": ":loudspeaker:",
+    "character": "📢"
+  },
+  {
+    "title": ":megaphone:",
+    "character": "📣"
+  },
+  {
+    "title": ":postal_horn:",
+    "character": "📯"
+  },
+  {
+    "title": ":bell:",
+    "character": "🔔"
+  },
+  {
+    "title": ":bell_with_slash:",
+    "character": "🔕"
+  },
+  {
+    "title": ":musical_score:",
+    "character": "🎼"
+  },
+  {
+    "title": ":musical_note:",
+    "character": "🎵"
+  },
+  {
+    "title": ":musical_notes:",
+    "character": "🎶"
+  },
+  {
+    "title": ":studio_microphone:",
+    "character": "🎙"
+  },
+  {
+    "title": ":level_slider:",
+    "character": "🎚"
+  },
+  {
+    "title": ":control_knobs:",
+    "character": "🎛"
+  },
+  {
+    "title": ":microphone:",
+    "character": "🎤"
+  },
+  {
+    "title": ":headphone:",
+    "character": "🎧"
+  },
+  {
+    "title": ":radio:",
+    "character": "📻"
+  },
+  {
+    "title": ":saxophone:",
+    "character": "🎷"
+  },
+  {
+    "title": ":guitar:",
+    "character": "🎸"
+  },
+  {
+    "title": ":musical_keyboard:",
+    "character": "🎹"
+  },
+  {
+    "title": ":trumpet:",
+    "character": "🎺"
+  },
+  {
+    "title": ":violin:",
+    "character": "🎻"
+  },
+  {
+    "title": ":drum:",
+    "character": "🥁"
+  },
+  {
+    "title": ":mobile_phone:",
+    "character": "📱"
+  },
+  {
+    "title": ":mobile_phone_with_arrow:",
+    "character": "📲"
+  },
+  {
+    "title": ":telephone:",
+    "character": "☎"
+  },
+  {
+    "title": ":telephone_receiver:",
+    "character": "📞"
+  },
+  {
+    "title": ":pager:",
+    "character": "📟"
+  },
+  {
+    "title": ":fax_machine:",
+    "character": "📠"
+  },
+  {
+    "title": ":battery:",
+    "character": "🔋"
+  },
+  {
+    "title": ":electric_plug:",
+    "character": "🔌"
+  },
+  {
+    "title": ":laptop_computer:",
+    "character": "💻"
+  },
+  {
+    "title": ":desktop_computer:",
+    "character": "🖥"
+  },
+  {
+    "title": ":printer:",
+    "character": "🖨"
+  },
+  {
+    "title": ":keyboard:",
+    "character": "⌨"
+  },
+  {
+    "title": ":computer_mouse:",
+    "character": "🖱"
+  },
+  {
+    "title": ":trackball:",
+    "character": "🖲"
+  },
+  {
+    "title": ":computer_disk:",
+    "character": "💽"
+  },
+  {
+    "title": ":floppy_disk:",
+    "character": "💾"
+  },
+  {
+    "title": ":optical_disk:",
+    "character": "💿"
+  },
+  {
+    "title": ":dvd:",
+    "character": "📀"
+  },
+  {
+    "title": ":movie_camera:",
+    "character": "🎥"
+  },
+  {
+    "title": ":film_frames:",
+    "character": "🎞"
+  },
+  {
+    "title": ":film_projector:",
+    "character": "📽"
+  },
+  {
+    "title": ":clapper_board:",
+    "character": "🎬"
+  },
+  {
+    "title": ":television:",
+    "character": "📺"
+  },
+  {
+    "title": ":camera:",
+    "character": "📷"
+  },
+  {
+    "title": ":camera_with_flash:",
+    "character": "📸"
+  },
+  {
+    "title": ":video_camera:",
+    "character": "📹"
+  },
+  {
+    "title": ":videocassette:",
+    "character": "📼"
+  },
+  {
+    "title": ":magnifying_glass_tilted_left:",
+    "character": "🔍"
+  },
+  {
+    "title": ":magnifying_glass_tilted_right:",
+    "character": "🔎"
+  },
+  {
+    "title": ":candle:",
+    "character": "🕯"
+  },
+  {
+    "title": ":light_bulb:",
+    "character": "💡"
+  },
+  {
+    "title": ":flashlight:",
+    "character": "🔦"
+  },
+  {
+    "title": ":red_paper_lantern:",
+    "character": "🏮"
+  },
+  {
+    "title": ":notebook_with_decorative_cover:",
+    "character": "📔"
+  },
+  {
+    "title": ":closed_book:",
+    "character": "📕"
+  },
+  {
+    "title": ":open_book:",
+    "character": "📖"
+  },
+  {
+    "title": ":books:",
+    "character": "📚"
+  },
+  {
+    "title": ":notebook:",
+    "character": "📓"
+  },
+  {
+    "title": ":scroll:",
+    "character": "📜"
+  },
+  {
+    "title": ":newspaper:",
+    "character": "📰"
+  },
+  {
+    "title": ":rolled-up_newspaper:",
+    "character": "🗞"
+  },
+  {
+    "title": ":money_bag:",
+    "character": "💰"
+  },
+  {
+    "title": ":dollar_banknote:",
+    "character": "💵"
+  },
+  {
+    "title": ":euro_banknote:",
+    "character": "💶"
+  },
+  {
+    "title": ":pound_banknote:",
+    "character": "💷"
+  },
+  {
+    "title": ":money_with_wings:",
+    "character": "💸"
+  },
+  {
+    "title": ":credit_card:",
+    "character": "💳"
+  },
+  {
+    "title": ":chart_increasing_with_yen:",
+    "character": "💹"
+  },
+  {
+    "title": ":heavy_dollar_sign:",
+    "character": "💲"
+  },
+  {
+    "title": ":envelope:",
+    "character": "✉"
+  },
+  {
+    "title": ":e-mail:",
+    "character": "📧"
+  },
+  {
+    "title": ":incoming_envelope:",
+    "character": "📨"
+  },
+  {
+    "title": ":envelope_with_arrow:",
+    "character": "📩"
+  },
+  {
+    "title": ":inbox_tray:",
+    "character": "📥"
+  },
+  {
+    "title": ":package:",
+    "character": "📦"
+  },
+  {
+    "title": ":closed_mailbox_with_raised_flag:",
+    "character": "📫"
+  },
+  {
+    "title": ":closed_mailbox_with_lowered_flag:",
+    "character": "📪"
+  },
+  {
+    "title": ":postbox:",
+    "character": "📮"
+  },
+  {
+    "title": ":pencil:",
+    "character": "✏"
+  },
+  {
+    "title": ":black_nib:",
+    "character": "✒"
+  },
+  {
+    "title": ":fountain_pen:",
+    "character": "🖋"
+  },
+  {
+    "title": ":pen:",
+    "character": "🖊"
+  },
+  {
+    "title": ":memo:",
+    "character": "📝"
+  },
+  {
+    "title": ":briefcase:",
+    "character": "💼"
+  },
+  {
+    "title": ":file_folder:",
+    "character": "📁"
+  },
+  {
+    "title": ":calendar:",
+    "character": "📅"
+  },
+  {
+    "title": ":spiral_notepad:",
+    "character": "🗒"
+  },
+  {
+    "title": ":chart_increasing:",
+    "character": "📈"
+  },
+  {
+    "title": ":chart_decreasing:",
+    "character": "📉"
+  },
+  {
+    "title": ":bar_chart:",
+    "character": "📊"
+  },
+  {
+    "title": ":clipboard:",
+    "character": "📋"
+  },
+  {
+    "title": ":pushpin:",
+    "character": "📌"
+  },
+  {
+    "title": ":round_pushpin:",
+    "character": "📍"
+  },
+  {
+    "title": ":paperclip:",
+    "character": "📎"
+  },
+  {
+    "title": ":linked_paperclips:",
+    "character": "🖇"
+  },
+  {
+    "title": ":straight_ruler:",
+    "character": "📏"
+  },
+  {
+    "title": ":triangular_ruler:",
+    "character": "📐"
+  },
+  {
+    "title": ":scissors:",
+    "character": "✂"
+  },
+  {
+    "title": ":card_file_box:",
+    "character": "🗃"
+  },
+  {
+    "title": ":file_cabinet:",
+    "character": "🗄"
+  },
+  {
+    "title": ":wastebasket:",
+    "character": "🗑"
+  },
+  {
+    "title": ":locked:",
+    "character": "🔒"
+  },
+  {
+    "title": ":unlocked:",
+    "character": "🔓"
+  },
+  {
+    "title": ":locked_with_pen:",
+    "character": "🔏"
+  },
+  {
+    "title": ":locked_with_key:",
+    "character": "🔐"
+  },
+  {
+    "title": ":key:",
+    "character": "🔑"
+  },
+  {
+    "title": ":old_key:",
+    "character": "🗝"
+  },
+  {
+    "title": ":hammer:",
+    "character": "🔨"
+  },
+  {
+    "title": ":pick:",
+    "character": "⛏"
+  },
+  {
+    "title": ":hammer_and_pick:",
+    "character": "⚒"
+  },
+  {
+    "title": ":hammer_and_wrench:",
+    "character": "🛠"
+  },
+  {
+    "title": ":dagger:",
+    "character": "🗡"
+  },
+  {
+    "title": ":crossed_swords:",
+    "character": "⚔"
+  },
+  {
+    "title": ":pistol:",
+    "character": "🔫"
+  },
+  {
+    "title": ":bow_and_arrow:",
+    "character": "🏹"
+  },
+  {
+    "title": ":shield:",
+    "character": "🛡"
+  },
+  {
+    "title": ":wrench:",
+    "character": "🔧"
+  },
+  {
+    "title": ":nut_and_bolt:",
+    "character": "🔩"
+  },
+  {
+    "title": ":gear:",
+    "character": "⚙"
+  },
+  {
+    "title": ":clamp:",
+    "character": "🗜"
+  },
+  {
+    "title": ":balance_scale:",
+    "character": "⚖"
+  },
+  {
+    "title": ":link:",
+    "character": "🔗"
+  },
+  {
+    "title": ":chains:",
+    "character": "⛓"
+  },
+  {
+    "title": ":alembic:",
+    "character": "⚗"
+  },
+  {
+    "title": ":microscope:",
+    "character": "🔬"
+  },
+  {
+    "title": ":telescope:",
+    "character": "🔭"
+  },
+  {
+    "title": ":satellite_antenna:",
+    "character": "📡"
+  },
+  {
+    "title": ":syringe:",
+    "character": "💉"
+  },
+  {
+    "title": ":pill:",
+    "character": "💊"
+  },
+  {
+    "title": ":door:",
+    "character": "🚪"
+  },
+  {
+    "title": ":bed:",
+    "character": "🛏"
+  },
+  {
+    "title": ":couch_and_lamp:",
+    "character": "🛋"
+  },
+  {
+    "title": ":toilet:",
+    "character": "🚽"
+  },
+  {
+    "title": ":shower:",
+    "character": "🚿"
+  },
+  {
+    "title": ":bathtub:",
+    "character": "🛁"
+  },
+  {
+    "title": ":shopping_cart:",
+    "character": "🛒"
+  },
+  {
+    "title": ":cigarette:",
+    "character": "🚬"
+  },
+  {
+    "title": ":coffin:",
+    "character": "⚰"
+  },
+  {
+    "title": ":funeral_urn:",
+    "character": "⚱"
+  },
+  {
+    "title": ":moai:",
+    "character": "🗿"
+  }
+]

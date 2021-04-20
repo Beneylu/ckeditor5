@@ -1,0 +1,262 @@
+[
+  {
+    "title": ":jack-o-lantern:",
+    "character": "🎃"
+  },
+  {
+    "title": ":christmas_tree:",
+    "character": "🎄"
+  },
+  {
+    "title": ":fireworks:",
+    "character": "🎆"
+  },
+  {
+    "title": ":sparkler:",
+    "character": "🎇"
+  },
+  {
+    "title": ":sparkles:",
+    "character": "✨"
+  },
+  {
+    "title": ":balloon:",
+    "character": "🎈"
+  },
+  {
+    "title": ":party_popper:",
+    "character": "🎉"
+  },
+  {
+    "title": ":confetti_ball:",
+    "character": "🎊"
+  },
+  {
+    "title": ":tanabata_tree:",
+    "character": "🎋"
+  },
+  {
+    "title": ":pine_decoration:",
+    "character": "🎍"
+  },
+  {
+    "title": ":japanese_dolls:",
+    "character": "🎎"
+  },
+  {
+    "title": ":carp_streamer:",
+    "character": "🎏"
+  },
+  {
+    "title": ":wind_chime:",
+    "character": "🎐"
+  },
+  {
+    "title": ":moon_viewing_ceremony:",
+    "character": "🎑"
+  },
+  {
+    "title": ":ribbon:",
+    "character": "🎀"
+  },
+  {
+    "title": ":wrapped_gift:",
+    "character": "🎁"
+  },
+  {
+    "title": ":reminder_ribbon:",
+    "character": "🎗"
+  },
+  {
+    "title": ":admission_tickets:",
+    "character": "🎟"
+  },
+  {
+    "title": ":ticket:",
+    "character": "🎫"
+  },
+  {
+    "title": ":military_medal:",
+    "character": "🎖"
+  },
+  {
+    "title": ":trophy:",
+    "character": "🏆"
+  },
+  {
+    "title": ":sports_medal:",
+    "character": "🏅"
+  },
+  {
+    "title": ":1st_place_medal:",
+    "character": "🥇"
+  },
+  {
+    "title": ":2nd_place_medal:",
+    "character": "🥈"
+  },
+  {
+    "title": ":3rd_place_medal:",
+    "character": "🥉"
+  },
+  {
+    "title": ":soccer_ball:",
+    "character": "⚽"
+  },
+  {
+    "title": ":baseball:",
+    "character": "⚾"
+  },
+  {
+    "title": ":basketball:",
+    "character": "🏀"
+  },
+  {
+    "title": ":volleyball:",
+    "character": "🏐"
+  },
+  {
+    "title": ":american_football:",
+    "character": "🏈"
+  },
+  {
+    "title": ":rugby_football:",
+    "character": "🏉"
+  },
+  {
+    "title": ":tennis:",
+    "character": "🎾"
+  },
+  {
+    "title": ":bowling:",
+    "character": "🎳"
+  },
+  {
+    "title": ":cricket_game:",
+    "character": "🏏"
+  },
+  {
+    "title": ":field_hockey:",
+    "character": "🏑"
+  },
+  {
+    "title": ":ice_hockey:",
+    "character": "🏒"
+  },
+  {
+    "title": ":ping_pong:",
+    "character": "🏓"
+  },
+  {
+    "title": ":badminton:",
+    "character": "🏸"
+  },
+  {
+    "title": ":boxing_glove:",
+    "character": "🥊"
+  },
+  {
+    "title": ":martial_arts_uniform:",
+    "character": "🥋"
+  },
+  {
+    "title": ":goal_net:",
+    "character": "🥅"
+  },
+  {
+    "title": ":flag_in_hole:",
+    "character": "⛳"
+  },
+  {
+    "title": ":ice_skate:",
+    "character": "⛸"
+  },
+  {
+    "title": ":fishing_pole:",
+    "character": "🎣"
+  },
+  {
+    "title": ":running_shirt:",
+    "character": "🎽"
+  },
+  {
+    "title": ":skis:",
+    "character": "🎿"
+  },
+  {
+    "title": ":sled:",
+    "character": "🛷"
+  },
+  {
+    "title": ":curling_stone:",
+    "character": "🥌"
+  },
+  {
+    "title": ":direct_hit:",
+    "character": "🎯"
+  },
+  {
+    "title": ":pool_8_ball:",
+    "character": "🎱"
+  },
+  {
+    "title": ":crystal_ball:",
+    "character": "🔮"
+  },
+  {
+    "title": ":video_game:",
+    "character": "🎮"
+  },
+  {
+    "title": ":joystick:",
+    "character": "🕹"
+  },
+  {
+    "title": ":slot_machine:",
+    "character": "🎰"
+  },
+  {
+    "title": ":game_die:",
+    "character": "🎲"
+  },
+  {
+    "title": ":spade_suit:",
+    "character": "♠"
+  },
+  {
+    "title": ":heart_suit:",
+    "character": "♥"
+  },
+  {
+    "title": ":diamond_suit:",
+    "character": "♦"
+  },
+  {
+    "title": ":club_suit:",
+    "character": "♣"
+  },
+  {
+    "title": ":joker:",
+    "character": "🃏"
+  },
+  {
+    "title": ":mahjong_red_dragon:",
+    "character": "🀄"
+  },
+  {
+    "title": ":flower_playing_cards:",
+    "character": "🎴"
+  },
+  {
+    "title": ":performing_arts:",
+    "character": "🎭"
+  },
+  {
+    "title": ":framed_picture:",
+    "character": "🖼"
+  },
+  {
+    "title": ":artist_palette:",
+    "character": "🎨"
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "title": ":globe_showing_europe-africa:",
+    "character": "🌍"
+  },
+  {
+    "title": ":globe_showing_americas:",
+    "character": "🌎"
+  },
+  {
+    "title": ":globe_showing_asia-australia:",
+    "character": "🌏"
+  },
+  {
+    "title": ":globe_with_meridians:",
+    "character": "🌐"
+  },
+  {
+    "title": ":world_map:",
+    "character": "🗺"
+  },
+  {
+    "title": ":map_of_japan:",
+    "character": "🗾"
+  },
+  {
+    "title": ":snow-capped_mountain:",
+    "character": "🏔"
+  },
+  {
+    "title": ":mountain:",
+    "character": "⛰"
+  },
+  {
+    "title": ":volcano:",
+    "character": "🌋"
+  },
+  {
+    "title": ":mount_fuji:",
+    "character": "🗻"
+  },
+  {
+    "title": ":camping:",
+    "character": "🏕"
+  },
+  {
+    "title": ":beach_with_umbrella:",
+    "character": "🏖"
+  },
+  {
+    "title": ":desert:",
+    "character": "🏜"
+  },
+  {
+    "title": ":desert_island:",
+    "character": "🏝"
+  },
+  {
+    "title": ":national_park:",
+    "character": "🏞"
+  },
+  {
+    "title": ":stadium:",
+    "character": "🏟"
+  },
+  {
+    "title": ":classical_building:",
+    "character": "🏛"
+  },
+  {
+    "title": ":building_construction:",
+    "character": "🏗"
+  },
+  {
+    "title": ":houses:",
+    "character": "🏘"
+  },
+  {
+    "title": ":derelict_house:",
+    "character": "🏚"
+  },
+  {
+    "title": ":house:",
+    "character": "🏠"
+  },
+  {
+    "title": ":house_with_garden:",
+    "character": "🏡"
+  },
+  {
+    "title": ":office_building:",
+    "character": "🏢"
+  },
+  {
+    "title": ":japanese_post_office:",
+    "character": "🏣"
+  },
+  {
+    "title": ":post_office:",
+    "character": "🏤"
+  },
+  {
+    "title": ":hospital:",
+    "character": "🏥"
+  },
+  {
+    "title": ":bank:",
+    "character": "🏦"
+  },
+  {
+    "title": ":hotel:",
+    "character": "🏨"
+  },
+  {
+    "title": ":love_hotel:",
+    "character": "🏩"
+  },
+  {
+    "title": ":convenience_store:",
+    "character": "🏪"
+  },
+  {
+    "title": ":school:",
+    "character": "🏫"
+  },
+  {
+    "title": ":department_store:",
+    "character": "🏬"
+  },
+  {
+    "title": ":factory:",
+    "character": "🏭"
+  },
+  {
+    "title": ":japanese_castle:",
+    "character": "🏯"
+  },
+  {
+    "title": ":castle:",
+    "character": "🏰"
+  },
+  {
+    "title": ":wedding:",
+    "character": "💒"
+  },
+  {
+    "title": ":tokyo_tower:",
+    "character": "🗼"
+  },
+  {
+    "title": ":statue_of_liberty:",
+    "character": "🗽"
+  },
+  {
+    "title": ":church:",
+    "character": "⛪"
+  },
+  {
+    "title": ":mosque:",
+    "character": "🕌"
+  },
+  {
+    "title": ":synagogue:",
+    "character": "🕍"
+  },
+  {
+    "title": ":shinto_shrine:",
+    "character": "⛩"
+  },
+  {
+    "title": ":kaaba:",
+    "character": "🕋"
+  },
+  {
+    "title": ":fountain:",
+    "character": "⛲"
+  },
+  {
+    "title": ":tent:",
+    "character": "⛺"
+  },
+  {
+    "title": ":foggy:",
+    "character": "🌁"
+  },
+  {
+    "title": ":night_with_stars:",
+    "character": "🌃"
+  },
+  {
+    "title": ":cityscape:",
+    "character": "🏙"
+  },
+  {
+    "title": ":sunrise_over_mountains:",
+    "character": "🌄"
+  },
+  {
+    "title": ":sunrise:",
+    "character": "🌅"
+  },
+  {
+    "title": ":cityscape_at_dusk:",
+    "character": "🌆"
+  },
+  {
+    "title": ":sunset:",
+    "character": "🌇"
+  },
+  {
+    "title": ":bridge_at_night:",
+    "character": "🌉"
+  },
+  {
+    "title": ":hot_springs:",
+    "character": "♨"
+  },
+  {
+    "title": ":milky_way:",
+    "character": "🌌"
+  },
+  {
+    "title": ":carousel_horse:",
+    "character": "🎠"
+  },
+  {
+    "title": ":ferris_wheel:",
+    "character": "🎡"
+  },
+  {
+    "title": ":roller_coaster:",
+    "character": "🎢"
+  },
+  {
+    "title": ":barber_pole:",
+    "character": "💈"
+  },
+  {
+    "title": ":circus_tent:",
+    "character": "🎪"
+  },
+  {
+    "title": ":locomotive:",
+    "character": "🚂"
+  },
+  {
+    "title": ":railway_car:",
+    "character": "🚃"
+  },
+  {
+    "title": ":high-speed_train:",
+    "character": "🚄"
+  },
+  {
+    "title": ":bullet_train:",
+    "character": "🚅"
+  },
+  {
+    "title": ":train:",
+    "character": "🚆"
+  },
+  {
+    "title": ":metro:",
+    "character": "🚇"
+  },
+  {
+    "title": ":light_rail:",
+    "character": "🚈"
+  },
+  {
+    "title": ":station:",
+    "character": "🚉"
+  },
+  {
+    "title": ":tram:",
+    "character": "🚊"
+  },
+  {
+    "title": ":monorail:",
+    "character": "🚝"
+  },
+  {
+    "title": ":mountain_railway:",
+    "character": "🚞"
+  },
+  {
+    "title": ":tram_car:",
+    "character": "🚋"
+  },
+  {
+    "title": ":bus:",
+    "character": "🚌"
+  },
+  {
+    "title": ":oncoming_bus:",
+    "character": "🚍"
+  },
+  {
+    "title": ":trolleybus:",
+    "character": "🚎"
+  },
+  {
+    "title": ":minibus:",
+    "character": "🚐"
+  },
+  {
+    "title": ":ambulance:",
+    "character": "🚑"
+  },
+  {
+    "title": ":fire_engine:",
+    "character": "🚒"
+  },
+  {
+    "title": ":police_car:",
+    "character": "🚓"
+  },
+  {
+    "title": ":oncoming_police_car:",
+    "character": "🚔"
+  },
+  {
+    "title": ":taxi:",
+    "character": "🚕"
+  },
+  {
+    "title": ":oncoming_taxi:",
+    "character": "🚖"
+  },
+  {
+    "title": ":automobile:",
+    "character": "🚗"
+  },
+  {
+    "title": ":oncoming_automobile:",
+    "character": "🚘"
+  },
+  {
+    "title": ":sport_utility_vehicle:",
+    "character": "🚙"
+  },
+  {
+    "title": ":delivery_truck:",
+    "character": "🚚"
+  },
+  {
+    "title": ":articulated_lorry:",
+    "character": "🚛"
+  },
+  {
+    "title": ":tractor:",
+    "character": "🚜"
+  },
+  {
+    "title": ":bicycle:",
+    "character": "🚲"
+  },
+  {
+    "title": ":kick_scooter:",
+    "character": "🛴"
+  },
+  {
+    "title": ":motor_scooter:",
+    "character": "🛵"
+  },
+  {
+    "title": ":bus_stop:",
+    "character": "🚏"
+  },
+  {
+    "title": ":motorway:",
+    "character": "🛣"
+  },
+  {
+    "title": ":railway_track:",
+    "character": "🛤"
+  },
+  {
+    "title": ":oil_drum:",
+    "character": "🛢"
+  },
+  {
+    "title": ":fuel_pump:",
+    "character": "⛽"
+  },
+  {
+    "title": ":police_car_light:",
+    "character": "🚨"
+  },
+  {
+    "title": ":horizontal_traffic_light:",
+    "character": "🚥"
+  },
+  {
+    "title": ":vertical_traffic_light:",
+    "character": "🚦"
+  },
+  {
+    "title": ":stop_sign:",
+    "character": "🛑"
+  },
+  {
+    "title": ":construction:",
+    "character": "🚧"
+  },
+  {
+    "title": ":anchor:",
+    "character": "⚓"
+  },
+  {
+    "title": ":sailboat:",
+    "character": "⛵"
+  },
+  {
+    "title": ":canoe:",
+    "character": "🛶"
+  },
+  {
+    "title": ":speedboat:",
+    "character": "🚤"
+  },
+  {
+    "title": ":passenger_ship:",
+    "character": "🛳"
+  },
+  {
+    "title": ":ferry:",
+    "character": "⛴"
+  },
+  {
+    "title": ":motor_boat:",
+    "character": "🛥"
+  },
+  {
+    "title": ":ship:",
+    "character": "🚢"
+  },
+  {
+    "title": ":airplane:",
+    "character": "✈",
+	"link": "../theme/128px/airplane.gif"
+  },
+  {
+    "title": ":small_airplane:",
+    "character": "🛩"
+  },
+  {
+    "title": ":airplane_departure:",
+    "character": "🛫"
+  },
+  {
+    "title": ":airplane_arrival:",
+    "character": "🛬"
+  },
+  {
+    "title": ":seat:",
+    "character": "💺"
+  },
+  {
+    "title": ":helicopter:",
+    "character": "🚁"
+  },
+  {
+    "title": ":suspension_railway:",
+    "character": "🚟"
+  },
+  {
+    "title": ":mountain_cableway:",
+    "character": "🚠"
+  },
+  {
+    "title": ":aerial_tramway:",
+    "character": "🚡"
+  },
+  {
+    "title": ":satellite:",
+    "character": "🛰"
+  },
+  {
+    "title": ":rocket:",
+    "character": "🚀"
+  },
+  {
+    "title": ":flying_saucer:",
+    "character": "🛸"
+  },
+  {
+    "title": ":bellhop_bell:",
+    "character": "🛎"
+  },
+  {
+    "title": ":hourglass_done:",
+    "character": "⌛"
+  },
+  {
+    "title": ":hourglass_not_done:",
+    "character": "⏳"
+  },
+  {
+    "title": ":watch:",
+    "character": "⌚"
+  },
+  {
+    "title": ":alarm_clock:",
+    "character": "⏰"
+  },
+  {
+    "title": ":stopwatch:",
+    "character": "⏱"
+  },
+  {
+    "title": ":timer_clock:",
+    "character": "⏲"
+  },
+  {
+    "title": ":new_moon:",
+    "character": "🌑"
+  },
+  {
+    "title": ":waxing_crescent_moon:",
+    "character": "🌒"
+  },
+  {
+    "title": ":first_quarter_moon:",
+    "character": "🌓"
+  },
+  {
+    "title": ":waxing_gibbous_moon:",
+    "character": "🌔"
+  },
+  {
+    "title": ":full_moon:",
+    "character": "🌕"
+  },
+  {
+    "title": ":waning_gibbous_moon:",
+    "character": "🌖"
+  },
+  {
+    "title": ":last_quarter_moon:",
+    "character": "🌗"
+  },
+  {
+    "title": ":waning_crescent_moon:",
+    "character": "🌘"
+  },
+  {
+    "title": ":crescent_moon:",
+    "character": "🌙"
+  },
+  {
+    "title": ":new_moon_face:",
+    "character": "🌚"
+  },
+  {
+    "title": ":first_quarter_moon_face:",
+    "character": "🌛"
+  },
+  {
+    "title": ":last_quarter_moon_face:",
+    "character": "🌜"
+  },
+  {
+    "title": ":thermometer:",
+    "character": "🌡"
+  },
+  {
+    "title": ":sun:",
+    "character": "☀"
+  },
+  {
+    "title": ":full_moon_face:",
+    "character": "🌝"
+  },
+  {
+    "title": ":sun_with_face:",
+    "character": "🌞"
+  },
+  {
+    "title": ":star:",
+    "character": "⭐"
+  },
+  {
+    "title": ":glowing_star:",
+    "character": "🌟"
+  },
+  {
+    "title": ":shooting_star:",
+    "character": "🌠"
+  },
+  {
+    "title": ":cloud:",
+    "character": "☁"
+  },
+  {
+    "title": ":sun_behind_cloud:",
+    "character": "⛅"
+  },
+  {
+    "title": ":cloud_with_lightning_and_rain:",
+    "character": "⛈"
+  },
+  {
+    "title": ":sun_behind_small_cloud:",
+    "character": "🌤"
+  },
+  {
+    "title": ":sun_behind_large_cloud:",
+    "character": "🌥"
+  },
+  {
+    "title": ":sun_behind_rain_cloud:",
+    "character": "🌦"
+  },
+  {
+    "title": ":cloud_with_rain:",
+    "character": "🌧"
+  },
+  {
+    "title": ":cloud_with_snow:",
+    "character": "🌨"
+  },
+  {
+    "title": ":cloud_with_lightning:",
+    "character": "🌩"
+  },
+  {
+    "title": ":tornado:",
+    "character": "🌪"
+  },
+  {
+    "title": ":fog:",
+    "character": "🌫"
+  },
+  {
+    "title": ":wind_face:",
+    "character": "🌬"
+  },
+  {
+    "title": ":cyclone:",
+    "character": "🌀"
+  },
+  {
+    "title": ":rainbow:",
+    "character": "🌈"
+  },
+  {
+    "title": ":closed_umbrella:",
+    "character": "🌂"
+  },
+  {
+    "title": ":umbrella:",
+    "character": "☂"
+  },
+  {
+    "title": ":umbrella_with_rain_drops:",
+    "character": "☔"
+  },
+  {
+    "title": ":umbrella_on_ground:",
+    "character": "⛱"
+  },
+  {
+    "title": ":high_voltage:",
+    "character": "⚡"
+  },
+  {
+    "title": ":snowflake:",
+    "character": "❄"
+  },
+  {
+    "title": ":snowman:",
+    "character": "☃"
+  },
+  {
+    "title": ":snowman_without_snow:",
+    "character": "⛄"
+  },
+  {
+    "title": ":comet:",
+    "character": "☄"
+  },
+  {
+    "title": ":fire:",
+    "character": "🔥"
+  },
+  {
+    "title": ":droplet:",
+    "character": "💧"
+  },
+  {
+    "title": ":water_wave:",
+    "character": "🌊"
+  }
+]

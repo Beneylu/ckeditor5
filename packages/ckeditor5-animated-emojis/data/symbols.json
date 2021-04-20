@@ -1,0 +1,821 @@
+[
+  {
+    "title": ":atm_sign:",
+    "character": "🏧"
+  },
+  {
+    "title": ":litter_in_bin_sign:",
+    "character": "🚮"
+  },
+  {
+    "title": ":potable_water:",
+    "character": "🚰"
+  },
+  {
+    "title": ":wheelchair_symbol:",
+    "character": "♿"
+  },
+  {
+    "title": ":men’s_room:",
+    "character": "🚹"
+  },
+  {
+    "title": ":women’s_room:",
+    "character": "🚺"
+  },
+  {
+    "title": ":restroom:",
+    "character": "🚻"
+  },
+  {
+    "title": ":baby_symbol:",
+    "character": "🚼"
+  },
+  {
+    "title": ":water_closet:",
+    "character": "🚾"
+  },
+  {
+    "title": ":passport_control:",
+    "character": "🛂"
+  },
+  {
+    "title": ":customs:",
+    "character": "🛃"
+  },
+  {
+    "title": ":baggage_claim:",
+    "character": "🛄"
+  },
+  {
+    "title": ":left_luggage:",
+    "character": "🛅"
+  },
+  {
+    "title": ":warning:",
+    "character": "⚠"
+  },
+  {
+    "title": ":children_crossing:",
+    "character": "🚸"
+  },
+  {
+    "title": ":no_entry:",
+    "character": "⛔"
+  },
+  {
+    "title": ":prohibited:",
+    "character": "🚫"
+  },
+  {
+    "title": ":no_bicycles:",
+    "character": "🚳"
+  },
+  {
+    "title": ":no_smoking:",
+    "character": "🚭"
+  },
+  {
+    "title": ":no_littering:",
+    "character": "🚯"
+  },
+  {
+    "title": ":non-potable_water:",
+    "character": "🚱"
+  },
+  {
+    "title": ":no_pedestrians:",
+    "character": "🚷"
+  },
+  {
+    "title": ":no_mobile_phones:",
+    "character": "📵"
+  },
+  {
+    "title": ":no_one_under_eighteen:",
+    "character": "🔞"
+  },
+  {
+    "title": ":radioactive:",
+    "character": "☢"
+  },
+  {
+    "title": ":biohazard:",
+    "character": "☣"
+  },
+  {
+    "title": ":up_arrow:",
+    "character": "⬆"
+  },
+  {
+    "title": ":up-right_arrow:",
+    "character": "↗"
+  },
+  {
+    "title": ":right_arrow:",
+    "character": "➡"
+  },
+  {
+    "title": ":down-right_arrow:",
+    "character": "↘"
+  },
+  {
+    "title": ":down_arrow:",
+    "character": "⬇"
+  },
+  {
+    "title": ":down-left_arrow:",
+    "character": "↙"
+  },
+  {
+    "title": ":left_arrow:",
+    "character": "⬅"
+  },
+  {
+    "title": ":up-left_arrow:",
+    "character": "↖"
+  },
+  {
+    "title": ":up-down_arrow:",
+    "character": "↕"
+  },
+  {
+    "title": ":left-right_arrow:",
+    "character": "↔"
+  },
+  {
+    "title": ":right_arrow_curving_left:",
+    "character": "↩"
+  },
+  {
+    "title": ":left_arrow_curving_right:",
+    "character": "↪"
+  },
+  {
+    "title": ":right_arrow_curving_up:",
+    "character": "⤴"
+  },
+  {
+    "title": ":right_arrow_curving_down:",
+    "character": "⤵"
+  },
+  {
+    "title": ":clockwise_vertical_arrows:",
+    "character": "🔃"
+  },
+  {
+    "title": ":counterclockwise_arrows_button:",
+    "character": "🔄"
+  },
+  {
+    "title": ":back_arrow:",
+    "character": "🔙"
+  },
+  {
+    "title": ":end_arrow:",
+    "character": "🔚"
+  },
+  {
+    "title": ":on!_arrow:",
+    "character": "🔛"
+  },
+  {
+    "title": ":soon_arrow:",
+    "character": "🔜"
+  },
+  {
+    "title": ":top_arrow:",
+    "character": "🔝"
+  },
+  {
+    "title": ":place_of_worship:",
+    "character": "🛐"
+  },
+  {
+    "title": ":atom_symbol:",
+    "character": "⚛"
+  },
+  {
+    "title": ":om:",
+    "character": "🕉"
+  },
+  {
+    "title": ":star_of_david:",
+    "character": "✡"
+  },
+  {
+    "title": ":wheel_of_dharma:",
+    "character": "☸"
+  },
+  {
+    "title": ":yin_yang:",
+    "character": "☯"
+  },
+  {
+    "title": ":latin_cross:",
+    "character": "✝"
+  },
+  {
+    "title": ":orthodox_cross:",
+    "character": "☦"
+  },
+  {
+    "title": ":star_and_crescent:",
+    "character": "☪"
+  },
+  {
+    "title": ":peace_symbol:",
+    "character": "☮"
+  },
+  {
+    "title": ":menorah:",
+    "character": "🕎"
+  },
+  {
+    "title": ":dotted_six-pointed_star:",
+    "character": "🔯"
+  },
+  {
+    "title": ":aries:",
+    "character": "♈"
+  },
+  {
+    "title": ":taurus:",
+    "character": "♉"
+  },
+  {
+    "title": ":gemini:",
+    "character": "♊"
+  },
+  {
+    "title": ":cancer:",
+    "character": "♋"
+  },
+  {
+    "title": ":leo:",
+    "character": "♌"
+  },
+  {
+    "title": ":virgo:",
+    "character": "♍"
+  },
+  {
+    "title": ":libra:",
+    "character": "♎"
+  },
+  {
+    "title": ":scorpio:",
+    "character": "♏"
+  },
+  {
+    "title": ":sagittarius:",
+    "character": "♐"
+  },
+  {
+    "title": ":capricorn:",
+    "character": "♑"
+  },
+  {
+    "title": ":aquarius:",
+    "character": "♒"
+  },
+  {
+    "title": ":pisces:",
+    "character": "♓"
+  },
+  {
+    "title": ":ophiuchus:",
+    "character": "⛎"
+  },
+  {
+    "title": ":shuffle_tracks_button:",
+    "character": "🔀"
+  },
+  {
+    "title": ":repeat_button:",
+    "character": "🔁"
+  },
+  {
+    "title": ":repeat_single_button:",
+    "character": "🔂"
+  },
+  {
+    "title": ":play_button:",
+    "character": "▶"
+  },
+  {
+    "title": ":fast-forward_button:",
+    "character": "⏩"
+  },
+  {
+    "title": ":next_track_button:",
+    "character": "⏭"
+  },
+  {
+    "title": ":play_or_pause_button:",
+    "character": "⏯"
+  },
+  {
+    "title": ":reverse_button:",
+    "character": "◀"
+  },
+  {
+    "title": ":fast_reverse_button:",
+    "character": "⏪"
+  },
+  {
+    "title": ":last_track_button:",
+    "character": "⏮"
+  },
+  {
+    "title": ":upwards_button:",
+    "character": "🔼"
+  },
+  {
+    "title": ":fast_up_button:",
+    "character": "⏫"
+  },
+  {
+    "title": ":downwards_button:",
+    "character": "🔽"
+  },
+  {
+    "title": ":fast_down_button:",
+    "character": "⏬"
+  },
+  {
+    "title": ":pause_button:",
+    "character": "⏸"
+  },
+  {
+    "title": ":stop_button:",
+    "character": "⏹"
+  },
+  {
+    "title": ":record_button:",
+    "character": "⏺"
+  },
+  {
+    "title": ":eject_button:",
+    "character": "⏏"
+  },
+  {
+    "title": ":cinema:",
+    "character": "🎦"
+  },
+  {
+    "title": ":dim_button:",
+    "character": "🔅"
+  },
+  {
+    "title": ":bright_button:",
+    "character": "🔆"
+  },
+  {
+    "title": ":antenna_bars:",
+    "character": "📶"
+  },
+  {
+    "title": ":vibration_mode:",
+    "character": "📳"
+  },
+  {
+    "title": ":mobile_phone_off:",
+    "character": "📴"
+  },
+  {
+    "title": ":female_sign:",
+    "character": "♀"
+  },
+  {
+    "title": ":male_sign:",
+    "character": "♂"
+  },
+  {
+    "title": ":medical_symbol:",
+    "character": "⚕"
+  },
+  {
+    "title": ":recycling_symbol:",
+    "character": "♻"
+  },
+  {
+    "title": ":fleur-de-lis:",
+    "character": "⚜"
+  },
+  {
+    "title": ":trident_emblem:",
+    "character": "🔱"
+  },
+  {
+    "title": ":name_badge:",
+    "character": "📛"
+  },
+  {
+    "title": ":japanese_symbol_for_beginner:",
+    "character": "🔰"
+  },
+  {
+    "title": ":heavy_large_circle:",
+    "character": "⭕"
+  },
+  {
+    "title": ":white_heavy_check_mark:",
+    "character": "✅"
+  },
+  {
+    "title": ":ballot_box_with_check:",
+    "character": "☑"
+  },
+  {
+    "title": ":heavy_check_mark:",
+    "character": "✔"
+  },
+  {
+    "title": ":heavy_multiplication_x:",
+    "character": "✖"
+  },
+  {
+    "title": ":cross_mark:",
+    "character": "❌"
+  },
+  {
+    "title": ":cross_mark_button:",
+    "character": "❎"
+  },
+  {
+    "title": ":heavy_plus_sign:",
+    "character": "➕"
+  },
+  {
+    "title": ":heavy_minus_sign:",
+    "character": "➖"
+  },
+  {
+    "title": ":heavy_division_sign:",
+    "character": "➗"
+  },
+  {
+    "title": ":curly_loop:",
+    "character": "➰"
+  },
+  {
+    "title": ":double_curly_loop:",
+    "character": "➿"
+  },
+  {
+    "title": ":part_alternation_mark:",
+    "character": "〽"
+  },
+  {
+    "title": ":eight-spoked_asterisk:",
+    "character": "✳"
+  },
+  {
+    "title": ":eight-pointed_star:",
+    "character": "✴"
+  },
+  {
+    "title": ":sparkle:",
+    "character": "❇"
+  },
+  {
+    "title": ":double_exclamation_mark:",
+    "character": "‼"
+  },
+  {
+    "title": ":exclamation_question_mark:",
+    "character": "⁉"
+  },
+  {
+    "title": ":question_mark:",
+    "character": "❓"
+  },
+  {
+    "title": ":white_question_mark:",
+    "character": "❔"
+  },
+  {
+    "title": ":white_exclamation_mark:",
+    "character": "❕"
+  },
+  {
+    "title": ":exclamation_mark:",
+    "character": "❗"
+  },
+  {
+    "title": ":wavy_dash:",
+    "character": "〰"
+  },
+  {
+    "title": ":copyright:",
+    "character": "©"
+  },
+  {
+    "title": ":registered:",
+    "character": "®"
+  },
+  {
+    "title": ":trade_mark:",
+    "character": "™"
+  },
+  {
+    "title": ":keycap_#:",
+    "character": "#️⃣"
+  },
+  {
+    "title": ":keycap_*:",
+    "character": "*️⃣"
+  },
+  {
+    "title": ":keycap_0:",
+    "character": "0️⃣"
+  },
+  {
+    "title": ":keycap_1:",
+    "character": "1️⃣"
+  },
+  {
+    "title": ":keycap_2:",
+    "character": "2️⃣"
+  },
+  {
+    "title": ":keycap_3:",
+    "character": "3️⃣"
+  },
+  {
+    "title": ":keycap_4:",
+    "character": "4️⃣"
+  },
+  {
+    "title": ":keycap_5:",
+    "character": "5️⃣"
+  },
+  {
+    "title": ":keycap_6:",
+    "character": "6️⃣"
+  },
+  {
+    "title": ":keycap_7:",
+    "character": "7️⃣"
+  },
+  {
+    "title": ":keycap_8:",
+    "character": "8️⃣"
+  },
+  {
+    "title": ":keycap_9:",
+    "character": "9️⃣"
+  },
+  {
+    "title": ":keycap_10:",
+    "character": "🔟"
+  },
+  {
+    "title": ":hundred_points:"
+  },
+  {
+    "title": ":input_latin_uppercase:",
+    "character": "🔠"
+  },
+  {
+    "title": ":input_latin_lowercase:",
+    "character": "🔡"
+  },
+  {
+    "title": ":input_numbers:",
+    "character": "🔢"
+  },
+  {
+    "title": ":input_symbols:",
+    "character": "🔣"
+  },
+  {
+    "title": ":input_latin_letters:",
+    "character": "🔤"
+  },
+  {
+    "title": ":a_button_(blood_type):",
+    "character": "🅰"
+  },
+  {
+    "title": ":ab_button_(blood_type):",
+    "character": "🆎"
+  },
+  {
+    "title": ":b_button_(blood_type):",
+    "character": "🅱"
+  },
+  {
+    "title": ":cl_button:",
+    "character": "🆑"
+  },
+  {
+    "title": ":cool_button:",
+    "character": "🆒"
+  },
+  {
+    "title": ":free_button:",
+    "character": "🆓"
+  },
+  {
+    "title": ":information:",
+    "character": "ℹ"
+  },
+  {
+    "title": ":id_button:",
+    "character": "🆔"
+  },
+  {
+    "title": ":circled_m:",
+    "character": "Ⓜ"
+  },
+  {
+    "title": ":new_button:",
+    "character": "🆕"
+  },
+  {
+    "title": ":ng_button:",
+    "character": "🆖"
+  },
+  {
+    "title": ":o_button_(blood_type):",
+    "character": "🅾"
+  },
+  {
+    "title": ":ok_button:",
+    "character": "🆗"
+  },
+  {
+    "title": ":p_button:",
+    "character": "🅿"
+  },
+  {
+    "title": ":sos_button:",
+    "character": "🆘"
+  },
+  {
+    "title": ":up!_button:",
+    "character": "🆙"
+  },
+  {
+    "title": ":vs_button:",
+    "character": "🆚"
+  },
+  {
+    "title": ":japanese_“here”_button:",
+    "character": "🈁"
+  },
+  {
+    "title": ":japanese_“service_charge”_button:",
+    "character": "🈂"
+  },
+  {
+    "title": ":japanese_“monthly_amount”_button:",
+    "character": "🈷"
+  },
+  {
+    "title": ":japanese_“not_free_of_charge”_button:",
+    "character": "🈶"
+  },
+  {
+    "title": ":japanese_“reserved”_button:",
+    "character": "🈯"
+  },
+  {
+    "title": ":japanese_“bargain”_button:",
+    "character": "🉐"
+  },
+  {
+    "title": ":japanese_“discount”_button:",
+    "character": "🈹"
+  },
+  {
+    "title": ":japanese_“free_of_charge”_button:",
+    "character": "🈚"
+  },
+  {
+    "title": ":japanese_“prohibited”_button:",
+    "character": "🈲"
+  },
+  {
+    "title": ":japanese_“acceptable”_button:",
+    "character": "🉑"
+  },
+  {
+    "title": ":japanese_“application”_button:",
+    "character": "🈸"
+  },
+  {
+    "title": ":japanese_“passing_grade”_button:",
+    "character": "🈴"
+  },
+  {
+    "title": ":japanese_“vacancy”_button:",
+    "character": "🈳"
+  },
+  {
+    "title": ":japanese_“congratulations”_button:",
+    "character": "㊗"
+  },
+  {
+    "title": ":japanese_“secret”_button:",
+    "character": "㊙"
+  },
+  {
+    "title": ":japanese_“open_for_business”_button:",
+    "character": "🈺"
+  },
+  {
+    "title": ":japanese_“no_vacancy”_button:",
+    "character": "🈵"
+  },
+  {
+    "title": ":red_circle:",
+    "character": "🔴"
+  },
+  {
+    "title": ":blue_circle:",
+    "character": "🔵"
+  },
+  {
+    "title": ":white_circle:",
+    "character": "⚪"
+  },
+  {
+    "title": ":black_circle:",
+    "character": "⚫"
+  },
+  {
+    "title": ":white_large_square:",
+    "character": "⬜"
+  },
+  {
+    "title": ":black_large_square:",
+    "character": "⬛"
+  },
+  {
+    "title": ":black_medium_square:",
+    "character": "◼"
+  },
+  {
+    "title": ":white_medium_square:",
+    "character": "◻"
+  },
+  {
+    "title": ":white_medium-small_square:",
+    "character": "◽"
+  },
+  {
+    "title": ":black_medium-small_square:",
+    "character": "◾"
+  },
+  {
+    "title": ":white_small_square:",
+    "character": "▫"
+  },
+  {
+    "title": ":black_small_square:",
+    "character": "▪"
+  },
+  {
+    "title": ":large_orange_diamond:",
+    "character": "🔶"
+  },
+  {
+    "title": ":large_blue_diamond:",
+    "character": "🔷"
+  },
+  {
+    "title": ":small_orange_diamond:",
+    "character": "🔸"
+  },
+  {
+    "title": ":small_blue_diamond:",
+    "character": "🔹"
+  },
+  {
+    "title": ":red_triangle_pointed_up:",
+    "character": "🔺"
+  },
+  {
+    "title": ":red_triangle_pointed_down:",
+    "character": "🔻"
+  },
+  {
+    "title": ":diamond_with_a_dot:",
+    "character": "💠"
+  },
+  {
+    "title": ":radio_button:",
+    "character": "🔘"
+  },
+  {
+    "title": ":black_square_button:",
+    "character": "🔲"
+  },
+  {
+    "title": ":white_square_button:",
+    "character": "🔳"
+  }
+]

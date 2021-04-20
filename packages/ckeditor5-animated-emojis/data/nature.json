@@ -1,0 +1,454 @@
+[
+  {
+    "title": ":monkey_face:",
+    "character": "🐵"
+  },
+  {
+    "title": ":monkey:",
+    "character": "🐒"
+  },
+  {
+    "title": ":gorilla:",
+    "character": "🦍"
+  },
+  {
+    "title": ":dog_face:",
+    "character": "🐶"
+  },
+  {
+    "title": ":dog:",
+    "character": "🐕"
+  },
+  {
+    "title": ":poodle:",
+    "character": "🐩"
+  },
+  {
+    "title": ":wolf_face:",
+    "character": "🐺"
+  },
+  {
+    "title": ":fox_face:",
+    "character": "🦊"
+  },
+  {
+    "title": ":cat_face:",
+    "character": "🐱"
+  },
+  {
+    "title": ":cat:",
+    "character": "🐈"
+  },
+  {
+    "title": ":lion_face:",
+    "character": "🦁"
+  },
+  {
+    "title": ":tiger_face:",
+    "character": "🐯"
+  },
+  {
+    "title": ":tiger:",
+    "character": "🐅"
+  },
+  {
+    "title": ":leopard:",
+    "character": "🐆"
+  },
+  {
+    "title": ":horse_face:",
+    "character": "🐴"
+  },
+  {
+    "title": ":horse:",
+    "character": "🐎"
+  },
+  {
+    "title": ":unicorn_face:",
+    "character": "🦄"
+  },
+  {
+    "title": ":zebra:",
+    "character": "🦓"
+  },
+  {
+    "title": ":deer:",
+    "character": "🦌"
+  },
+  {
+    "title": ":cow_face:",
+    "character": "🐮"
+  },
+  {
+    "title": ":ox:",
+    "character": "🐂"
+  },
+  {
+    "title": ":water_buffalo:",
+    "character": "🐃"
+  },
+  {
+    "title": ":cow:",
+    "character": "🐄"
+  },
+  {
+    "title": ":pig_face:",
+    "character": "🐷"
+  },
+  {
+    "title": ":pig:",
+    "character": "🐖"
+  },
+  {
+    "title": ":boar:",
+    "character": "🐗"
+  },
+  {
+    "title": ":pig_nose:",
+    "character": "🐽"
+  },
+  {
+    "title": ":ram:",
+    "character": "🐏"
+  },
+  {
+    "title": ":ewe:",
+    "character": "🐑"
+  },
+  {
+    "title": ":goat:",
+    "character": "🐐"
+  },
+  {
+    "title": ":camel:",
+    "character": "🐪"
+  },
+  {
+    "title": ":two-hump_camel:",
+    "character": "🐫"
+  },
+  {
+    "title": ":giraffe:",
+    "character": "🦒"
+  },
+  {
+    "title": ":elephant:",
+    "character": "🐘"
+  },
+  {
+    "title": ":rhinoceros:",
+    "character": "🦏"
+  },
+  {
+    "title": ":mouse_face:",
+    "character": "🐭"
+  },
+  {
+    "title": ":mouse:",
+    "character": "🐁"
+  },
+  {
+    "title": ":rat:",
+    "character": "🐀"
+  },
+  {
+    "title": ":hamster_face:",
+    "character": "🐹"
+  },
+  {
+    "title": ":rabbit_face:",
+    "character": "🐰"
+  },
+  {
+    "title": ":rabbit:",
+    "character": "🐇"
+  },
+  {
+    "title": ":chipmunk:",
+    "character": "🐿"
+  },
+  {
+    "title": ":hedgehog:",
+    "character": "🦔"
+  },
+  {
+    "title": ":bat:",
+    "character": "🦇"
+  },
+  {
+    "title": ":bear_face:",
+    "character": "🐻"
+  },
+  {
+    "title": ":koala:",
+    "character": "🐨"
+  },
+  {
+    "title": ":panda_face:",
+    "character": "🐼"
+  },
+  {
+    "title": ":paw_prints:",
+    "character": "🐾"
+  },
+  {
+    "title": ":turkey:",
+    "character": "🦃"
+  },
+  {
+    "title": ":chicken:",
+    "character": "🐔"
+  },
+  {
+    "title": ":rooster:",
+    "character": "🐓"
+  },
+  {
+    "title": ":hatching_chick:",
+    "character": "🐣"
+  },
+  {
+    "title": ":baby_chick:",
+    "character": "🐤"
+  },
+  {
+    "title": ":front-facing_baby_chick:",
+    "character": "🐥"
+  },
+  {
+    "title": ":bird:",
+    "character": "🐦"
+  },
+  {
+    "title": ":penguin:",
+    "character": "🐧"
+  },
+  {
+    "title": ":dove:",
+    "character": "🕊"
+  },
+  {
+    "title": ":eagle:",
+    "character": "🦅"
+  },
+  {
+    "title": ":duck:",
+    "character": "🦆"
+  },
+  {
+    "title": ":owl:",
+    "character": "🦉"
+  },
+  {
+    "title": ":frog_face:",
+    "character": "🐸"
+  },
+  {
+    "title": ":crocodile:",
+    "character": "🐊"
+  },
+  {
+    "title": ":turtle:",
+    "character": "🐢"
+  },
+  {
+    "title": ":lizard:",
+    "character": "🦎"
+  },
+  {
+    "title": ":snake:",
+    "character": "🐍"
+  },
+  {
+    "title": ":dragon_face:",
+    "character": "🐲"
+  },
+  {
+    "title": ":dragon:",
+    "character": "🐉"
+  },
+  {
+    "title": ":sauropod:",
+    "character": "🦕"
+  },
+  {
+    "title": ":t-rex:",
+    "character": "🦖"
+  },
+  {
+    "title": ":spouting_whale:",
+    "character": "🐳"
+  },
+  {
+    "title": ":whale:",
+    "character": "🐋"
+  },
+  {
+    "title": ":dolphin:",
+    "character": "🐬"
+  },
+  {
+    "title": ":fish:",
+    "character": "🐟"
+  },
+  {
+    "title": ":tropical_fish:",
+    "character": "🐠"
+  },
+  {
+    "title": ":blowfish:",
+    "character": "🐡"
+  },
+  {
+    "title": ":shark:",
+    "character": "🦈"
+  },
+  {
+    "title": ":octopus:",
+    "character": "🐙"
+  },
+  {
+    "title": ":spiral_shell:",
+    "character": "🐚"
+  },
+  {
+    "title": ":crab:",
+    "character": "🦀"
+  },
+  {
+    "title": ":shrimp:",
+    "character": "🦐"
+  },
+  {
+    "title": ":squid:",
+    "character": "🦑"
+  },
+  {
+    "title": ":snail:",
+    "character": "🐌"
+  },
+  {
+    "title": ":butterfly:",
+    "character": "🦋"
+  },
+  {
+    "title": ":bug:",
+    "character": "🐛"
+  },
+  {
+    "title": ":ant:",
+    "character": "🐜"
+  },
+  {
+    "title": ":honeybee:",
+    "character": "🐝"
+  },
+  {
+    "title": ":lady_beetle:",
+    "character": "🐞"
+  },
+  {
+    "title": ":cricket:",
+    "character": "🦗"
+  },
+  {
+    "title": ":spider:",
+    "character": "🕷"
+  },
+  {
+    "title": ":spider_web:",
+    "character": "🕸"
+  },
+  {
+    "title": ":scorpion:",
+    "character": "🦂"
+  },
+  {
+    "title": ":bouquet:",
+    "character": "💐"
+  },
+  {
+    "title": ":cherry_blossom:",
+    "character": "🌸"
+  },
+  {
+    "title": ":white_flower:",
+    "character": "💮"
+  },
+  {
+    "title": ":rosette:",
+    "character": "🏵"
+  },
+  {
+    "title": ":rose:",
+    "character": "🌹"
+  },
+  {
+    "title": ":wilted_flower:",
+    "character": "🥀"
+  },
+  {
+    "title": ":hibiscus:",
+    "character": "🌺"
+  },
+  {
+    "title": ":sunflower:",
+    "character": "🌻"
+  },
+  {
+    "title": ":blossom:",
+    "character": "🌼"
+  },
+  {
+    "title": ":tulip:",
+    "character": "🌷"
+  },
+  {
+    "title": ":seedling:",
+    "character": "🌱"
+  },
+  {
+    "title": ":evergreen_tree:",
+    "character": "🌲"
+  },
+  {
+    "title": ":deciduous_tree:",
+    "character": "🌳"
+  },
+  {
+    "title": ":palm_tree:",
+    "character": "🌴"
+  },
+  {
+    "title": ":cactus:",
+    "character": "🌵"
+  },
+  {
+    "title": ":sheaf_of_rice:",
+    "character": "🌾"
+  },
+  {
+    "title": ":herb:",
+    "character": "🌿"
+  },
+  {
+    "title": ":shamrock:",
+    "character": "☘"
+  },
+  {
+    "title": ":four_leaf_clover:",
+    "character": "🍀"
+  },
+  {
+    "title": ":maple_leaf:",
+    "character": "🍁"
+  },
+  {
+    "title": ":fallen_leaf:",
+    "character": "🍂"
+  },
+  {
+    "title": ":leaf_fluttering_in_wind:",
+    "character": "🍃"
+  }
+]

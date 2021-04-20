@@ -1,0 +1,1782 @@
+[
+  {
+    "title": ":grinning_face:",
+    "character": "😀"
+  },
+  {
+    "title": ":beaming_face_with_smiling_eyes:",
+    "character": "😁"
+  },
+  {
+    "title": ":face_with_tears_of_joy:",
+    "character": "😂"
+  },
+  {
+    "title": ":rolling_on_the_floor_laughing:",
+    "character": "🤣"
+  },
+  {
+    "title": ":grinning_face_with_big_eyes:",
+    "character": "😃"
+  },
+  {
+    "title": ":grinning_face_with_smiling_eyes:",
+    "character": "😄"
+  },
+  {
+    "title": ":grinning_face_with_sweat:",
+    "character": "😅"
+  },
+  {
+    "title": ":grinning_squinting_face:",
+    "character": "😆"
+  },
+  {
+    "title": ":winking_face:",
+    "character": "😉"
+  },
+  {
+    "title": ":smiling_face_with_smiling_eyes:",
+    "character": "😊"
+  },
+  {
+    "title": ":face_savoring_food:",
+    "character": "😋"
+  },
+  {
+    "title": ":smiling_face_with_sunglasses:",
+    "character": "😎"
+  },
+  {
+    "title": ":smiling_face_with_heart-eyes:",
+    "character": "😍"
+  },
+  {
+    "title": ":face_blowing_a_kiss:",
+    "character": "😘"
+  },
+  {
+    "title": ":kissing_face:",
+    "character": "😗"
+  },
+  {
+    "title": ":kissing_face_with_smiling_eyes:",
+    "character": "😙"
+  },
+  {
+    "title": ":kissing_face_with_closed_eyes:",
+    "character": "😚"
+  },
+  {
+    "title": ":slightly_smiling_face:",
+    "character": "🙂"
+  },
+  {
+    "title": ":hugging_face:",
+    "character": "🤗"
+  },
+  {
+    "title": ":star-struck:",
+    "character": "🤩"
+  },
+  {
+    "title": ":thinking_face:",
+    "character": "🤔"
+  },
+  {
+    "title": ":face_with_raised_eyebrow:",
+    "character": "🤨"
+  },
+  {
+    "title": ":neutral_face:",
+    "character": "😐"
+  },
+  {
+    "title": ":expressionless_face:",
+    "character": "😑"
+  },
+  {
+    "title": ":face_without_mouth:",
+    "character": "😶"
+  },
+  {
+    "title": ":face_with_rolling_eyes:",
+    "character": "🙄"
+  },
+  {
+    "title": ":smirking_face:",
+    "character": "😏"
+  },
+  {
+    "title": ":persevering_face:",
+    "character": "😣"
+  },
+  {
+    "title": ":sad_but_relieved_face:",
+    "character": "😥"
+  },
+  {
+    "title": ":face_with_open_mouth:",
+    "character": "😮"
+  },
+  {
+    "title": ":zipper-mouth_face:",
+    "character": "🤐"
+  },
+  {
+    "title": ":hushed_face:",
+    "character": "😯"
+  },
+  {
+    "title": ":sleepy_face:",
+    "character": "😪"
+  },
+  {
+    "title": ":tired_face:",
+    "character": "😫"
+  },
+  {
+    "title": ":sleeping_face:",
+    "character": "😴"
+  },
+  {
+    "title": ":relieved_face:",
+    "character": "😌"
+  },
+  {
+    "title": ":face_with_tongue:",
+    "character": "😛"
+  },
+  {
+    "title": ":winking_face_with_tongue:",
+    "character": "😜"
+  },
+  {
+    "title": ":squinting_face_with_tongue:",
+    "character": "😝"
+  },
+  {
+    "title": ":drooling_face:",
+    "character": "🤤"
+  },
+  {
+    "title": ":unamused_face:",
+    "character": "😒"
+  },
+  {
+    "title": ":downcast_face_with_sweat:",
+    "character": "😓"
+  },
+  {
+    "title": ":pensive_face:",
+    "character": "😔"
+  },
+  {
+    "title": ":confused_face:",
+    "character": "😕"
+  },
+  {
+    "title": ":upside-down_face:",
+    "character": "🙃"
+  },
+  {
+    "title": ":money-mouth_face:",
+    "character": "🤑"
+  },
+  {
+    "title": ":astonished_face:",
+    "character": "😲"
+  },
+  {
+    "title": ":slightly_frowning_face:",
+    "character": "🙁"
+  },
+  {
+    "title": ":confounded_face:",
+    "character": "😖"
+  },
+  {
+    "title": ":disappointed_face:",
+    "character": "😞"
+  },
+  {
+    "title": ":worried_face:",
+    "character": "😟"
+  },
+  {
+    "title": ":face_with_steam_from_nose:",
+    "character": "😤"
+  },
+  {
+    "title": ":crying_face:",
+    "character": "😢"
+  },
+  {
+    "title": ":loudly_crying_face:",
+    "character": "😭"
+  },
+  {
+    "title": ":frowning_face_with_open_mouth:",
+    "character": "😦"
+  },
+  {
+    "title": ":anguished_face:",
+    "character": "😧"
+  },
+  {
+    "title": ":fearful_face:",
+    "character": "😨"
+  },
+  {
+    "title": ":weary_face:",
+    "character": "😩"
+  },
+  {
+    "title": ":exploding_head:",
+    "character": "🤯"
+  },
+  {
+    "title": ":grimacing_face:",
+    "character": "😬"
+  },
+  {
+    "title": ":anxious_face_with_sweat:",
+    "character": "😰"
+  },
+  {
+    "title": ":face_screaming_in_fear:",
+    "character": "😱"
+  },
+  {
+    "title": ":flushed_face:",
+    "character": "😳"
+  },
+  {
+    "title": ":zany_face:",
+    "character": "🤪"
+  },
+  {
+    "title": ":dizzy_face:",
+    "character": "😵"
+  },
+  {
+    "title": ":pouting_face:",
+    "character": "😡"
+  },
+  {
+    "title": ":angry_face:",
+    "character": "😠"
+  },
+  {
+    "title": ":face_with_symbols_on_mouth:",
+    "character": "🤬"
+  },
+  {
+    "title": ":face_with_medical_mask:",
+    "character": "😷"
+  },
+  {
+    "title": ":face_with_thermometer:",
+    "character": "🤒"
+  },
+  {
+    "title": ":face_with_head-bandage:",
+    "character": "🤕"
+  },
+  {
+    "title": ":nauseated_face:",
+    "character": "🤢"
+  },
+  {
+    "title": ":face_vomiting:",
+    "character": "🤮"
+  },
+  {
+    "title": ":sneezing_face:",
+    "character": "🤧"
+  },
+  {
+    "title": ":smiling_face_with_halo:",
+    "character": "😇"
+  },
+  {
+    "title": ":cowboy_hat_face:",
+    "character": "🤠"
+  },
+  {
+    "title": ":lying_face:",
+    "character": "🤥"
+  },
+  {
+    "title": ":shushing_face:",
+    "character": "🤫"
+  },
+  {
+    "title": ":face_with_hand_over_mouth:",
+    "character": "🤭"
+  },
+  {
+    "title": ":face_with_monocle:",
+    "character": "🧐"
+  },
+  {
+    "title": ":nerd_face:",
+    "character": "🤓"
+  },
+  {
+    "title": ":smiling_face_with_horns:",
+    "character": "😈"
+  },
+  {
+    "title": ":angry_face_with_horns:",
+    "character": "👿"
+  },
+  {
+    "title": ":clown_face:",
+    "character": "🤡"
+  },
+  {
+    "title": ":ogre:",
+    "character": "👹"
+  },
+  {
+    "title": ":goblin:",
+    "character": "👺"
+  },
+  {
+    "title": ":skull:",
+    "character": "💀"
+  },
+  {
+    "title": ":skull_and_crossbones:",
+    "character": "☠"
+  },
+  {
+    "title": ":ghost:",
+    "character": "👻"
+  },
+  {
+    "title": ":alien:",
+    "character": "👽"
+  },
+  {
+    "title": ":alien_monster:",
+    "character": "👾"
+  },
+  {
+    "title": ":robot_face:",
+    "character": "🤖"
+  },
+  {
+    "title": ":pile_of_poo:",
+    "character": "💩"
+  },
+  {
+    "title": ":grinning_cat_face:",
+    "character": "😺"
+  },
+  {
+    "title": ":grinning_cat_face_with_smiling_eyes:",
+    "character": "😸"
+  },
+  {
+    "title": ":cat_face_with_tears_of_joy:",
+    "character": "😹"
+  },
+  {
+    "title": ":smiling_cat_face_with_heart-eyes:",
+    "character": "😻"
+  },
+  {
+    "title": ":cat_face_with_wry_smile:",
+    "character": "😼"
+  },
+  {
+    "title": ":kissing_cat_face:",
+    "character": "😽"
+  },
+  {
+    "title": ":weary_cat_face:",
+    "character": "🙀"
+  },
+  {
+    "title": ":crying_cat_face:",
+    "character": "😿"
+  },
+  {
+    "title": ":pouting_cat_face:",
+    "character": "😾"
+  },
+  {
+    "title": ":see-no-evil_monkey:",
+    "character": "🙈"
+  },
+  {
+    "title": ":hear-no-evil_monkey:",
+    "character": "🙉"
+  },
+  {
+    "title": ":speak-no-evil_monkey:",
+    "character": "🙊"
+  },
+  {
+    "title": ":baby:",
+    "character": "👶"
+  },
+  {
+    "title": ":child:",
+    "character": "🧒"
+  },
+  {
+    "title": ":boy:",
+    "character": "👦"
+  },
+  {
+    "title": ":girl:",
+    "character": "👧"
+  },
+  {
+    "title": ":person:",
+    "character": "🧑"
+  },
+  {
+    "title": ":person_blond_hair:",
+    "character": "👱"
+  },
+  {
+    "title": ":man:",
+    "character": "👨"
+  },
+  {
+    "title": ":man_blond_hair:",
+    "character": "👱‍♂️"
+  },
+  {
+    "title": ":man_beard:",
+    "character": "🧔"
+  },
+  {
+    "title": ":woman:",
+    "character": "👩"
+  },
+  {
+    "title": ":woman_blond_hair:",
+    "character": "👱‍♀️"
+  },
+  {
+    "title": ":older_person:",
+    "character": "🧓"
+  },
+  {
+    "title": ":old_man:",
+    "character": "👴"
+  },
+  {
+    "title": ":old_woman:",
+    "character": "👵"
+  },
+  {
+    "title": ":man_health_worker:",
+    "character": "👨‍⚕️"
+  },
+  {
+    "title": ":woman_health_worker:",
+    "character": "👩‍⚕️"
+  },
+  {
+    "title": ":man_student:",
+    "character": "👨‍🎓"
+  },
+  {
+    "title": ":woman_student:",
+    "character": "👩‍🎓"
+  },
+  {
+    "title": ":man_teacher:",
+    "character": "👨‍🏫"
+  },
+  {
+    "title": ":woman_teacher:",
+    "character": "👩‍🏫"
+  },
+  {
+    "title": ":man_judge:",
+    "character": "👨‍⚖️"
+  },
+  {
+    "title": ":woman_judge:",
+    "character": "👩‍⚖️"
+  },
+  {
+    "title": ":man_farmer:",
+    "character": "👨‍🌾"
+  },
+  {
+    "title": ":woman_farmer:",
+    "character": "👩‍🌾"
+  },
+  {
+    "title": ":man_cook:",
+    "character": "👨‍🍳"
+  },
+  {
+    "title": ":woman_cook:",
+    "character": "👩‍🍳"
+  },
+  {
+    "title": ":man_mechanic:",
+    "character": "👨‍🔧"
+  },
+  {
+    "title": ":woman_mechanic:",
+    "character": "👩‍🔧"
+  },
+  {
+    "title": ":man_factory_worker:",
+    "character": "👨‍🏭"
+  },
+  {
+    "title": ":woman_factory_worker:",
+    "character": "👩‍🏭"
+  },
+  {
+    "title": ":man_office_worker:",
+    "character": "👨‍💼"
+  },
+  {
+    "title": ":woman_office_worker:",
+    "character": "👩‍💼"
+  },
+  {
+    "title": ":man_scientist:",
+    "character": "👨‍🔬"
+  },
+  {
+    "title": ":woman_scientist:",
+    "character": "👩‍🔬"
+  },
+  {
+    "title": ":man_technologist:",
+    "character": "👨‍💻"
+  },
+  {
+    "title": ":woman_technologist:",
+    "character": "👩‍💻"
+  },
+  {
+    "title": ":man_singer:",
+    "character": "👨‍🎤"
+  },
+  {
+    "title": ":woman_singer:",
+    "character": "👩‍🎤"
+  },
+  {
+    "title": ":man_artist:",
+    "character": "👨‍🎨"
+  },
+  {
+    "title": ":woman_artist:",
+    "character": "👩‍🎨"
+  },
+  {
+    "title": ":man_pilot:",
+    "character": "👨‍✈️"
+  },
+  {
+    "title": ":woman_pilot:",
+    "character": "👩‍✈️"
+  },
+  {
+    "title": ":man_astronaut:",
+    "character": "👨‍🚀"
+  },
+  {
+    "title": ":woman_astronaut:",
+    "character": "👩‍🚀"
+  },
+  {
+    "title": ":man_firefighter:",
+    "character": "👨‍🚒"
+  },
+  {
+    "title": ":woman_firefighter:",
+    "character": "👩‍🚒"
+  },
+  {
+    "title": ":police_officer:",
+    "character": "👮"
+  },
+  {
+    "title": ":man_police_officer:",
+    "character": "👮‍♂️"
+  },
+  {
+    "title": ":woman_police_officer:",
+    "character": "👮‍♀️"
+  },
+  {
+    "title": ":detective:",
+    "character": "🕵"
+  },
+  {
+    "title": ":man_detective:",
+    "character": "🕵️‍♂️"
+  },
+  {
+    "title": ":woman_detective:",
+    "character": "🕵️‍♀️"
+  },
+  {
+    "title": ":guard:",
+    "character": "💂"
+  },
+  {
+    "title": ":man_guard:",
+    "character": "💂‍♂️"
+  },
+  {
+    "title": ":woman_guard:",
+    "character": "💂‍♀️"
+  },
+  {
+    "title": ":construction_worker:",
+    "character": "👷"
+  },
+  {
+    "title": ":man_construction_worker:",
+    "character": "👷‍♂️"
+  },
+  {
+    "title": ":woman_construction_worker:",
+    "character": "👷‍♀️"
+  },
+  {
+    "title": ":prince:",
+    "character": "🤴"
+  },
+  {
+    "title": ":princess:",
+    "character": "👸"
+  },
+  {
+    "title": ":person_wearing_turban:",
+    "character": "👳"
+  },
+  {
+    "title": ":man_wearing_turban:",
+    "character": "👳‍♂️"
+  },
+  {
+    "title": ":woman_wearing_turban:",
+    "character": "👳‍♀️"
+  },
+  {
+    "title": ":man_with_chinese_cap:",
+    "character": "👲"
+  },
+  {
+    "title": ":woman_with_headscarf:",
+    "character": "🧕"
+  },
+  {
+    "title": ":man_in_tuxedo:",
+    "character": "🤵"
+  },
+  {
+    "title": ":bride_with_veil:",
+    "character": "👰"
+  },
+  {
+    "title": ":pregnant_woman:",
+    "character": "🤰"
+  },
+  {
+    "title": ":breast-feeding:",
+    "character": "🤱"
+  },
+  {
+    "title": ":baby_angel:",
+    "character": "👼"
+  },
+  {
+    "title": ":santa_claus:",
+    "character": "🎅"
+  },
+  {
+    "title": ":mrs._claus:",
+    "character": "🤶"
+  },
+  {
+    "title": ":mage:",
+    "character": "🧙"
+  },
+  {
+    "title": ":man_mage:",
+    "character": "🧙‍♂️"
+  },
+  {
+    "title": ":woman_mage:",
+    "character": "🧙‍♀️"
+  },
+  {
+    "title": ":fairy:",
+    "character": "🧚"
+  },
+  {
+    "title": ":man_fairy:",
+    "character": "🧚‍♂️"
+  },
+  {
+    "title": ":woman_fairy:",
+    "character": "🧚‍♀️"
+  },
+  {
+    "title": ":vampire:",
+    "character": "🧛"
+  },
+  {
+    "title": ":man_vampire:",
+    "character": "🧛‍♂️"
+  },
+  {
+    "title": ":woman_vampire:",
+    "character": "🧛‍♀️"
+  },
+  {
+    "title": ":merperson:",
+    "character": "🧜"
+  },
+  {
+    "title": ":merman:",
+    "character": "🧜‍♂️"
+  },
+  {
+    "title": ":mermaid:",
+    "character": "🧜‍♀️"
+  },
+  {
+    "title": ":elf:",
+    "character": "🧝"
+  },
+  {
+    "title": ":man_elf:",
+    "character": "🧝‍♂️"
+  },
+  {
+    "title": ":woman_elf:",
+    "character": "🧝‍♀️"
+  },
+  {
+    "title": ":genie:",
+    "character": "🧞"
+  },
+  {
+    "title": ":man_genie:",
+    "character": "🧞‍♂️"
+  },
+  {
+    "title": ":woman_genie:",
+    "character": "🧞‍♀️"
+  },
+  {
+    "title": ":zombie:",
+    "character": "🧟"
+  },
+  {
+    "title": ":man_zombie:",
+    "character": "🧟‍♂️"
+  },
+  {
+    "title": ":woman_zombie:",
+    "character": "🧟‍♀️"
+  },
+  {
+    "title": ":person_frowning:",
+    "character": "🙍"
+  },
+  {
+    "title": ":man_frowning:",
+    "character": "🙍‍♂️"
+  },
+  {
+    "title": ":woman_frowning:",
+    "character": "🙍‍♀️"
+  },
+  {
+    "title": ":person_pouting:",
+    "character": "🙎"
+  },
+  {
+    "title": ":man_pouting:",
+    "character": "🙎‍♂️"
+  },
+  {
+    "title": ":woman_pouting:",
+    "character": "🙎‍♀️"
+  },
+  {
+    "title": ":person_gesturing_no:",
+    "character": "🙅"
+  },
+  {
+    "title": ":man_gesturing_no:",
+    "character": "🙅‍♂️"
+  },
+  {
+    "title": ":woman_gesturing_no:",
+    "character": "🙅‍♀️"
+  },
+  {
+    "title": ":person_gesturing_ok:",
+    "character": "🙆"
+  },
+  {
+    "title": ":man_gesturing_ok:",
+    "character": "🙆‍♂️"
+  },
+  {
+    "title": ":woman_gesturing_ok:",
+    "character": "🙆‍♀️"
+  },
+  {
+    "title": ":person_tipping_hand:",
+    "character": "💁"
+  },
+  {
+    "title": ":man_tipping_hand:",
+    "character": "💁‍♂️"
+  },
+  {
+    "title": ":woman_tipping_hand:",
+    "character": "💁‍♀️"
+  },
+  {
+    "title": ":person_raising_hand:",
+    "character": "🙋"
+  },
+  {
+    "title": ":man_raising_hand:",
+    "character": "🙋‍♂️"
+  },
+  {
+    "title": ":woman_raising_hand:",
+    "character": "🙋‍♀️"
+  },
+  {
+    "title": ":person_bowing:",
+    "character": "🙇"
+  },
+  {
+    "title": ":man_bowing:",
+    "character": "🙇‍♂️"
+  },
+  {
+    "title": ":woman_bowing:",
+    "character": "🙇‍♀️"
+  },
+  {
+    "title": ":person_facepalming:",
+    "character": "🤦"
+  },
+  {
+    "title": ":man_facepalming:",
+    "character": "🤦‍♂️"
+  },
+  {
+    "title": ":woman_facepalming:",
+    "character": "🤦‍♀️"
+  },
+  {
+    "title": ":person_shrugging:",
+    "character": "🤷"
+  },
+  {
+    "title": ":man_shrugging:",
+    "character": "🤷‍♂️"
+  },
+  {
+    "title": ":woman_shrugging:",
+    "character": "🤷‍♀️"
+  },
+  {
+    "title": ":person_getting_massage:",
+    "character": "💆"
+  },
+  {
+    "title": ":man_getting_massage:",
+    "character": "💆‍♂️"
+  },
+  {
+    "title": ":woman_getting_massage:",
+    "character": "💆‍♀️"
+  },
+  {
+    "title": ":person_getting_haircut:",
+    "character": "💇"
+  },
+  {
+    "title": ":man_getting_haircut:",
+    "character": "💇‍♂️"
+  },
+  {
+    "title": ":woman_getting_haircut:",
+    "character": "💇‍♀️"
+  },
+  {
+    "title": ":person_walking:",
+    "character": "🚶"
+  },
+  {
+    "title": ":man_walking:",
+    "character": "🚶‍♂️"
+  },
+  {
+    "title": ":woman_walking:",
+    "character": "🚶‍♀️"
+  },
+  {
+    "title": ":person_running:",
+    "character": "🏃"
+  },
+  {
+    "title": ":man_running:",
+    "character": "🏃‍♂️"
+  },
+  {
+    "title": ":woman_running:",
+    "character": "🏃‍♀️"
+  },
+  {
+    "title": ":woman_dancing:",
+    "character": "💃"
+  },
+  {
+    "title": ":man_dancing:",
+    "character": "🕺"
+  },
+  {
+    "title": ":people_with_bunny_ears:",
+    "character": "👯"
+  },
+  {
+    "title": ":men_with_bunny_ears:",
+    "character": "👯‍♂️"
+  },
+  {
+    "title": ":women_with_bunny_ears:",
+    "character": "👯‍♀️"
+  },
+  {
+    "title": ":person_in_steamy_room:",
+    "character": "🧖"
+  },
+  {
+    "title": ":man_in_steamy_room:",
+    "character": "🧖‍♂️"
+  },
+  {
+    "title": ":woman_in_steamy_room:",
+    "character": "🧖‍♀️"
+  },
+  {
+    "title": ":person_climbing:",
+    "character": "🧗"
+  },
+  {
+    "title": ":man_climbing:",
+    "character": "🧗‍♂️"
+  },
+  {
+    "title": ":woman_climbing:",
+    "character": "🧗‍♀️"
+  },
+  {
+    "title": ":person_in_lotus_position:",
+    "character": "🧘"
+  },
+  {
+    "title": ":man_in_lotus_position:",
+    "character": "🧘‍♂️"
+  },
+  {
+    "title": ":woman_in_lotus_position:",
+    "character": "🧘‍♀️"
+  },
+  {
+    "title": ":person_taking_bath:",
+    "character": "🛀"
+  },
+  {
+    "title": ":person_in_bed:",
+    "character": "🛌"
+  },
+  {
+    "title": ":man_in_suit_levitating:",
+    "character": "🕴"
+  },
+  {
+    "title": ":speaking_head:",
+    "character": "🗣"
+  },
+  {
+    "title": ":bust_in_silhouette:",
+    "character": "👤"
+  },
+  {
+    "title": ":busts_in_silhouette:",
+    "character": "👥"
+  },
+  {
+    "title": ":person_fencing:",
+    "character": "🤺"
+  },
+  {
+    "title": ":horse_racing:",
+    "character": "🏇"
+  },
+  {
+    "title": ":skier:",
+    "character": "⛷"
+  },
+  {
+    "title": ":snowboarder:",
+    "character": "🏂"
+  },
+  {
+    "title": ":person_golfing:",
+    "character": "🏌"
+  },
+  {
+    "title": ":man_golfing:",
+    "character": "🏌️‍♂️"
+  },
+  {
+    "title": ":woman_golfing:",
+    "character": "🏌️‍♀️"
+  },
+  {
+    "title": ":person_surfing:",
+    "character": "🏄"
+  },
+  {
+    "title": ":man_surfing:",
+    "character": "🏄‍♂️"
+  },
+  {
+    "title": ":woman_surfing:",
+    "character": "🏄‍♀️"
+  },
+  {
+    "title": ":person_rowing_boat:",
+    "character": "🚣"
+  },
+  {
+    "title": ":man_rowing_boat:",
+    "character": "🚣‍♂️"
+  },
+  {
+    "title": ":woman_rowing_boat:",
+    "character": "🚣‍♀️"
+  },
+  {
+    "title": ":person_swimming:",
+    "character": "🏊"
+  },
+  {
+    "title": ":man_swimming:",
+    "character": "🏊‍♂️"
+  },
+  {
+    "title": ":woman_swimming:",
+    "character": "🏊‍♀️"
+  },
+  {
+    "title": ":person_bouncing_ball:",
+    "character": "⛹"
+  },
+  {
+    "title": ":man_bouncing_ball:",
+    "character": "⛹️‍♂️"
+  },
+  {
+    "title": ":woman_bouncing_ball:",
+    "character": "⛹️‍♀️"
+  },
+  {
+    "title": ":person_lifting_weights:",
+    "character": "🏋"
+  },
+  {
+    "title": ":man_lifting_weights:",
+    "character": "🏋️‍♂️"
+  },
+  {
+    "title": ":woman_lifting_weights:",
+    "character": "🏋️‍♀️"
+  },
+  {
+    "title": ":person_biking:",
+    "character": "🚴"
+  },
+  {
+    "title": ":man_biking:",
+    "character": "🚴‍♂️"
+  },
+  {
+    "title": ":woman_biking:",
+    "character": "🚴‍♀️"
+  },
+  {
+    "title": ":person_mountain_biking:",
+    "character": "🚵"
+  },
+  {
+    "title": ":man_mountain_biking:",
+    "character": "🚵‍♂️"
+  },
+  {
+    "title": ":woman_mountain_biking:",
+    "character": "🚵‍♀️"
+  },
+  {
+    "title": ":racing_car:",
+    "character": "🏎"
+  },
+  {
+    "title": ":motorcycle:",
+    "character": "🏍"
+  },
+  {
+    "title": ":person_cartwheeling:",
+    "character": "🤸"
+  },
+  {
+    "title": ":man_cartwheeling:",
+    "character": "🤸‍♂️"
+  },
+  {
+    "title": ":woman_cartwheeling:",
+    "character": "🤸‍♀️"
+  },
+  {
+    "title": ":people_wrestling:",
+    "character": "🤼"
+  },
+  {
+    "title": ":men_wrestling:",
+    "character": "🤼‍♂️"
+  },
+  {
+    "title": ":women_wrestling:",
+    "character": "🤼‍♀️"
+  },
+  {
+    "title": ":person_playing_water_polo:",
+    "character": "🤽"
+  },
+  {
+    "title": ":man_playing_water_polo:",
+    "character": "🤽‍♂️"
+  },
+  {
+    "title": ":woman_playing_water_polo:",
+    "character": "🤽‍♀️"
+  },
+  {
+    "title": ":person_playing_handball:",
+    "character": "🤾"
+  },
+  {
+    "title": ":man_playing_handball:",
+    "character": "🤾‍♂️"
+  },
+  {
+    "title": ":woman_playing_handball:",
+    "character": "🤾‍♀️"
+  },
+  {
+    "title": ":person_juggling:",
+    "character": "🤹"
+  },
+  {
+    "title": ":man_juggling:",
+    "character": "🤹‍♂️"
+  },
+  {
+    "title": ":woman_juggling:",
+    "character": "🤹‍♀️"
+  },
+  {
+    "title": ":man_and_woman_holding_hands:",
+    "character": "👫"
+  },
+  {
+    "title": ":two_men_holding_hands:",
+    "character": "👬"
+  },
+  {
+    "title": ":two_women_holding_hands:",
+    "character": "👭"
+  },
+  {
+    "title": ":kiss:",
+    "character": "💏"
+  },
+  {
+    "title": ":kiss_woman_man:",
+    "character": "👩‍❤️‍💋‍👨"
+  },
+  {
+    "title": ":kiss_man_man:",
+    "character": "👨‍❤️‍💋‍👨"
+  },
+  {
+    "title": ":kiss_woman_woman:",
+    "character": "👩‍❤️‍💋‍👩"
+  },
+  {
+    "title": ":couple_with_heart:",
+    "character": "💑"
+  },
+  {
+    "title": ":couple_with_heart_woman_man:",
+    "character": "👩‍❤️‍👨"
+  },
+  {
+    "title": ":couple_with_heart_man_man:",
+    "character": "👨‍❤️‍👨"
+  },
+  {
+    "title": ":couple_with_heart_woman_woman:",
+    "character": "👩‍❤️‍👩"
+  },
+  {
+    "title": ":family:",
+    "character": "👪"
+  },
+  {
+    "title": ":family_man_woman_boy:",
+    "character": "👨‍👩‍👦"
+  },
+  {
+    "title": ":family_man_woman_girl:",
+    "character": "👨‍👩‍👧"
+  },
+  {
+    "title": ":family_man_woman_girl_boy:",
+    "character": "👨‍👩‍👧‍👦"
+  },
+  {
+    "title": ":family_man_woman_boy_boy:",
+    "character": "👨‍👩‍👦‍👦"
+  },
+  {
+    "title": ":family_man_woman_girl_girl:",
+    "character": "👨‍👩‍👧‍👧"
+  },
+  {
+    "title": ":family_man_man_boy:",
+    "character": "👨‍👨‍👦"
+  },
+  {
+    "title": ":family_man_man_girl:",
+    "character": "👨‍👨‍👧"
+  },
+  {
+    "title": ":family_man_man_girl_boy:",
+    "character": "👨‍👨‍👧‍👦"
+  },
+  {
+    "title": ":family_man_man_boy_boy:",
+    "character": "👨‍👨‍👦‍👦"
+  },
+  {
+    "title": ":family_man_man_girl_girl:",
+    "character": "👨‍👨‍👧‍👧"
+  },
+  {
+    "title": ":family_woman_woman_boy:",
+    "character": "👩‍👩‍👦"
+  },
+  {
+    "title": ":family_woman_woman_girl:",
+    "character": "👩‍👩‍👧"
+  },
+  {
+    "title": ":family_woman_woman_girl_boy:",
+    "character": "👩‍👩‍👧‍👦"
+  },
+  {
+    "title": ":family_woman_woman_boy_boy:",
+    "character": "👩‍👩‍👦‍👦"
+  },
+  {
+    "title": ":family_woman_woman_girl_girl:",
+    "character": "👩‍👩‍👧‍👧"
+  },
+  {
+    "title": ":family_man_boy:",
+    "character": "👨‍👦"
+  },
+  {
+    "title": ":family_man_boy_boy:",
+    "character": "👨‍👦‍👦"
+  },
+  {
+    "title": ":family_man_girl:",
+    "character": "👨‍👧"
+  },
+  {
+    "title": ":family_man_girl_boy:",
+    "character": "👨‍👧‍👦"
+  },
+  {
+    "title": ":family_man_girl_girl:",
+    "character": "👨‍👧‍👧"
+  },
+  {
+    "title": ":family_woman_boy:",
+    "character": "👩‍👦"
+  },
+  {
+    "title": ":family_woman_boy_boy:",
+    "character": "👩‍👦‍👦"
+  },
+  {
+    "title": ":family_woman_girl:",
+    "character": "👩‍👧"
+  },
+  {
+    "title": ":family_woman_girl_boy:",
+    "character": "👩‍👧‍👦"
+  },
+  {
+    "title": ":family_woman_girl_girl:",
+    "character": "👩‍👧‍👧"
+  },
+  {
+    "title": ":selfie:",
+    "character": "🤳"
+  },
+  {
+    "title": ":flexed_biceps:",
+    "character": "💪"
+  },
+  {
+    "title": ":backhand_index_pointing_left:",
+    "character": "👈"
+  },
+  {
+    "title": ":backhand_index_pointing_right:",
+    "character": "👉"
+  },
+  {
+    "title": ":index_pointing_up:",
+    "character": "☝"
+  },
+  {
+    "title": ":backhand_index_pointing_up:",
+    "character": "👆"
+  },
+  {
+    "title": ":middle_finger:",
+    "character": "🖕"
+  },
+  {
+    "title": ":backhand_index_pointing_down:",
+    "character": "👇"
+  },
+  {
+    "title": ":victory_hand:",
+    "character": "✌"
+  },
+  {
+    "title": ":crossed_fingers:",
+    "character": "🤞"
+  },
+  {
+    "title": ":vulcan_salute:",
+    "character": "🖖"
+  },
+  {
+    "title": ":sign_of_the_horns:",
+    "character": "🤘"
+  },
+  {
+    "title": ":call_me_hand:",
+    "character": "🤙"
+  },
+  {
+    "title": ":hand_with_fingers_splayed:",
+    "character": "🖐"
+  },
+  {
+    "title": ":raised_hand:",
+    "character": "✋"
+  },
+  {
+    "title": ":ok_hand:",
+    "character": "👌"
+  },
+  {
+    "title": ":thumbs_up:",
+    "character": "👍"
+  },
+  {
+    "title": ":thumbs_down:",
+    "character": "👎"
+  },
+  {
+    "title": ":raised_fist:",
+    "character": "✊"
+  },
+  {
+    "title": ":oncoming_fist:",
+    "character": "👊"
+  },
+  {
+    "title": ":left-facing_fist:",
+    "character": "🤛"
+  },
+  {
+    "title": ":right-facing_fist:",
+    "character": "🤜"
+  },
+  {
+    "title": ":raised_back_of_hand:",
+    "character": "🤚"
+  },
+  {
+    "title": ":waving_hand:",
+    "character": "👋"
+  },
+  {
+    "title": ":love-you_gesture:",
+    "character": "🤟"
+  },
+  {
+    "title": ":writing_hand:",
+    "character": "✍"
+  },
+  {
+    "title": ":clapping_hands:",
+    "character": "👏"
+  },
+  {
+    "title": ":open_hands:",
+    "character": "👐"
+  },
+  {
+    "title": ":raising_hands:",
+    "character": "🙌"
+  },
+  {
+    "title": ":palms_up_together:",
+    "character": "🤲"
+  },
+  {
+    "title": ":folded_hands:",
+    "character": "🙏"
+  },
+  {
+    "title": ":handshake:",
+    "character": "🤝"
+  },
+  {
+    "title": ":nail_polish:",
+    "character": "💅"
+  },
+  {
+    "title": ":ear:",
+    "character": "👂"
+  },
+  {
+    "title": ":nose:",
+    "character": "👃"
+  },
+  {
+    "title": ":footprints:",
+    "character": "👣"
+  },
+  {
+    "title": ":eyes:",
+    "character": "👀"
+  },
+  {
+    "title": ":eye:",
+    "character": "👁"
+  },
+  {
+    "title": ":eye_in_speech_bubble:",
+    "character": "👁️‍🗨️"
+  },
+  {
+    "title": ":brain:",
+    "character": "🧠"
+  },
+  {
+    "title": ":tongue:",
+    "character": "👅"
+  },
+  {
+    "title": ":mouth:",
+    "character": "👄"
+  },
+  {
+    "title": ":kiss_mark:",
+    "character": "💋"
+  },
+  {
+    "title": ":heart_with_arrow:",
+    "character": "💘"
+  },
+  {
+    "title": ":heart_with_ribbon:",
+    "character": "💝"
+  },
+  {
+    "title": ":sparkling_heart:",
+    "character": "💖"
+  },
+  {
+    "title": ":growing_heart:",
+    "character": "💗"
+  },
+  {
+    "title": ":beating_heart:",
+    "character": "💓"
+  },
+  {
+    "title": ":revolving_hearts:",
+    "character": "💞"
+  },
+  {
+    "title": ":two_hearts:",
+    "character": "💕"
+  },
+  {
+    "title": ":love_letter:",
+    "character": "💌"
+  },
+  {
+    "title": ":heavy_heart_exclamation:",
+    "character": "❣"
+  },
+  {
+    "title": ":broken_heart:",
+    "character": "💔"
+  },
+  {
+    "title": ":red_heart:",
+    "character": "❤"
+  },
+  {
+    "title": ":orange_heart:",
+    "character": "🧡"
+  },
+  {
+    "title": ":yellow_heart:",
+    "character": "💛"
+  },
+  {
+    "title": ":green_heart:",
+    "character": "💚"
+  },
+  {
+    "title": ":blue_heart:",
+    "character": "💙"
+  },
+  {
+    "title": ":purple_heart:",
+    "character": "💜"
+  },
+  {
+    "title": ":black_heart:",
+    "character": "🖤"
+  },
+  {
+    "title": ":heart_decoration:",
+    "character": "💟"
+  },
+  {
+    "title": ":zzz:",
+    "character": "💤"
+  },
+  {
+    "title": ":anger_symbol:",
+    "character": "💢"
+  },
+  {
+    "title": ":bomb:",
+    "character": "💣"
+  },
+  {
+    "title": ":collision:",
+    "character": "💥"
+  },
+  {
+    "title": ":sweat_droplets:",
+    "character": "💦"
+  },
+  {
+    "title": ":dashing_away:",
+    "character": "💨"
+  },
+  {
+    "title": ":dizzy:",
+    "character": "💫"
+  },
+  {
+    "title": ":speech_balloon:",
+    "character": "💬"
+  },
+  {
+    "title": ":left_speech_bubble:",
+    "character": "🗨"
+  },
+  {
+    "title": ":right_anger_bubble:",
+    "character": "🗯"
+  },
+  {
+    "title": ":thought_balloon:",
+    "character": "💭"
+  },
+  {
+    "title": ":hole:",
+    "character": "🕳"
+  },
+  {
+    "title": ":glasses:",
+    "character": "👓"
+  },
+  {
+    "title": ":sunglasses:",
+    "character": "🕶"
+  },
+  {
+    "title": ":necktie:",
+    "character": "👔"
+  },
+  {
+    "title": ":t-shirt:",
+    "character": "👕"
+  },
+  {
+    "title": ":jeans:",
+    "character": "👖"
+  },
+  {
+    "title": ":scarf:",
+    "character": "🧣"
+  },
+  {
+    "title": ":gloves:",
+    "character": "🧤"
+  },
+  {
+    "title": ":coat:",
+    "character": "🧥"
+  },
+  {
+    "title": ":socks:",
+    "character": "🧦"
+  },
+  {
+    "title": ":dress:",
+    "character": "👗"
+  },
+  {
+    "title": ":kimono:",
+    "character": "👘"
+  },
+  {
+    "title": ":bikini:",
+    "character": "👙"
+  },
+  {
+    "title": ":woman’s_clothes:",
+    "character": "👚"
+  },
+  {
+    "title": ":purse:",
+    "character": "👛"
+  },
+  {
+    "title": ":handbag:",
+    "character": "👜"
+  },
+  {
+    "title": ":clutch_bag:",
+    "character": "👝"
+  },
+  {
+    "title": ":shopping_bags:",
+    "character": "🛍"
+  },
+  {
+    "title": ":backpack:",
+    "character": "🎒"
+  },
+  {
+    "title": ":man’s_shoe:",
+    "character": "👞"
+  },
+  {
+    "title": ":running_shoe:",
+    "character": "👟"
+  },
+  {
+    "title": ":high-heeled_shoe:",
+    "character": "👠"
+  },
+  {
+    "title": ":woman’s_sandal:",
+    "character": "👡"
+  },
+  {
+    "title": ":woman’s_boot:",
+    "character": "👢"
+  },
+  {
+    "title": ":crown:",
+    "character": "👑"
+  },
+  {
+    "title": ":woman’s_hat:",
+    "character": "👒"
+  },
+  {
+    "title": ":top_hat:",
+    "character": "🎩"
+  },
+  {
+    "title": ":graduation_cap:",
+    "character": "🎓"
+  },
+  {
+    "title": ":billed_cap:",
+    "character": "🧢"
+  },
+  {
+    "title": ":rescue_worker’s_helmet:",
+    "character": "⛑"
+  },
+  {
+    "title": ":prayer_beads:",
+    "character": "📿"
+  },
+  {
+    "title": ":lipstick:",
+    "character": "💄"
+  },
+  {
+    "title": ":ring:",
+    "character": "💍"
+  },
+  {
+    "title": ":gem_stone:",
+    "character": "💎"
+  }
+]

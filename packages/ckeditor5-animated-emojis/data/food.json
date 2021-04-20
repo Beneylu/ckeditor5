@@ -1,0 +1,410 @@
+[
+  {
+    "title": ":grapes:",
+    "character": "🍇"
+  },
+  {
+    "title": ":melon:",
+    "character": "🍈"
+  },
+  {
+    "title": ":watermelon:",
+    "character": "🍉"
+  },
+  {
+    "title": ":tangerine:",
+    "character": "🍊"
+  },
+  {
+    "title": ":lemon:",
+    "character": "🍋"
+  },
+  {
+    "title": ":banana:",
+    "character": "🍌"
+  },
+  {
+    "title": ":pineapple:",
+    "character": "🍍"
+  },
+  {
+    "title": ":red_apple:",
+    "character": "🍎"
+  },
+  {
+    "title": ":green_apple:",
+    "character": "🍏"
+  },
+  {
+    "title": ":pear:",
+    "character": "🍐"
+  },
+  {
+    "title": ":peach:",
+    "character": "🍑"
+  },
+  {
+    "title": ":cherries:",
+    "character": "🍒"
+  },
+  {
+    "title": ":strawberry:",
+    "character": "🍓"
+  },
+  {
+    "title": ":kiwi_fruit:",
+    "character": "🥝"
+  },
+  {
+    "title": ":tomato:",
+    "character": "🍅"
+  },
+  {
+    "title": ":coconut:",
+    "character": "🥥"
+  },
+  {
+    "title": ":avocado:",
+    "character": "🥑"
+  },
+  {
+    "title": ":eggplant:",
+    "character": "🍆"
+  },
+  {
+    "title": ":potato:",
+    "character": "🥔"
+  },
+  {
+    "title": ":carrot:",
+    "character": "🥕"
+  },
+  {
+    "title": ":ear_of_corn:",
+    "character": "🌽"
+  },
+  {
+    "title": ":hot_pepper:",
+    "character": "🌶"
+  },
+  {
+    "title": ":cucumber:",
+    "character": "🥒"
+  },
+  {
+    "title": ":broccoli:",
+    "character": "🥦"
+  },
+  {
+    "title": ":mushroom:",
+    "character": "🍄"
+  },
+  {
+    "title": ":peanuts:",
+    "character": "🥜"
+  },
+  {
+    "title": ":chestnut:",
+    "character": "🌰"
+  },
+  {
+    "title": ":bread:",
+    "character": "🍞"
+  },
+  {
+    "title": ":croissant:",
+    "character": "🥐"
+  },
+  {
+    "title": ":baguette_bread:",
+    "character": "🥖"
+  },
+  {
+    "title": ":pretzel:",
+    "character": "🥨"
+  },
+  {
+    "title": ":pancakes:",
+    "character": "🥞"
+  },
+  {
+    "title": ":cheese_wedge:",
+    "character": "🧀"
+  },
+  {
+    "title": ":meat_on_bone:",
+    "character": "🍖"
+  },
+  {
+    "title": ":poultry_leg:",
+    "character": "🍗"
+  },
+  {
+    "title": ":cut_of_meat:",
+    "character": "🥩"
+  },
+  {
+    "title": ":bacon:",
+    "character": "🥓"
+  },
+  {
+    "title": ":hamburger:",
+    "character": "🍔"
+  },
+  {
+    "title": ":french_fries:",
+    "character": "🍟"
+  },
+  {
+    "title": ":pizza:",
+    "character": "🍕"
+  },
+  {
+    "title": ":hot_dog:",
+    "character": "🌭"
+  },
+  {
+    "title": ":sandwich:",
+    "character": "🥪"
+  },
+  {
+    "title": ":taco:",
+    "character": "🌮"
+  },
+  {
+    "title": ":burrito:",
+    "character": "🌯"
+  },
+  {
+    "title": ":stuffed_flatbread:",
+    "character": "🥙"
+  },
+  {
+    "title": ":egg:",
+    "character": "🥚"
+  },
+  {
+    "title": ":cooking:",
+    "character": "🍳"
+  },
+  {
+    "title": ":shallow_pan_of_food:",
+    "character": "🥘"
+  },
+  {
+    "title": ":pot_of_food:",
+    "character": "🍲"
+  },
+  {
+    "title": ":bowl_with_spoon:",
+    "character": "🥣"
+  },
+  {
+    "title": ":green_salad:",
+    "character": "🥗"
+  },
+  {
+    "title": ":popcorn:",
+    "character": "🍿"
+  },
+  {
+    "title": ":canned_food:",
+    "character": "🥫"
+  },
+  {
+    "title": ":bento_box:",
+    "character": "🍱"
+  },
+  {
+    "title": ":rice_cracker:",
+    "character": "🍘"
+  },
+  {
+    "title": ":rice_ball:",
+    "character": "🍙"
+  },
+  {
+    "title": ":cooked_rice:",
+    "character": "🍚"
+  },
+  {
+    "title": ":curry_rice:",
+    "character": "🍛"
+  },
+  {
+    "title": ":steaming_bowl:",
+    "character": "🍜"
+  },
+  {
+    "title": ":spaghetti:",
+    "character": "🍝"
+  },
+  {
+    "title": ":roasted_sweet_potato:",
+    "character": "🍠"
+  },
+  {
+    "title": ":oden:",
+    "character": "🍢"
+  },
+  {
+    "title": ":sushi:",
+    "character": "🍣"
+  },
+  {
+    "title": ":fried_shrimp:",
+    "character": "🍤"
+  },
+  {
+    "title": ":fish_cake_with_swirl:",
+    "character": "🍥"
+  },
+  {
+    "title": ":dango:",
+    "character": "🍡"
+  },
+  {
+    "title": ":dumpling:",
+    "character": "🥟"
+  },
+  {
+    "title": ":fortune_cookie:",
+    "character": "🥠"
+  },
+  {
+    "title": ":takeout_box:",
+    "character": "🥡"
+  },
+  {
+    "title": ":soft_ice_cream:",
+    "character": "🍦"
+  },
+  {
+    "title": ":shaved_ice:",
+    "character": "🍧"
+  },
+  {
+    "title": ":ice_cream:",
+    "character": "🍨"
+  },
+  {
+    "title": ":doughnut:",
+    "character": "🍩"
+  },
+  {
+    "title": ":cookie:",
+    "character": "🍪"
+  },
+  {
+    "title": ":birthday_cake:",
+    "character": "🎂"
+  },
+  {
+    "title": ":shortcake:",
+    "character": "🍰"
+  },
+  {
+    "title": ":pie:",
+    "character": "🥧"
+  },
+  {
+    "title": ":chocolate_bar:",
+    "character": "🍫"
+  },
+  {
+    "title": ":candy:",
+    "character": "🍬"
+  },
+  {
+    "title": ":lollipop:",
+    "character": "🍭"
+  },
+  {
+    "title": ":custard:",
+    "character": "🍮"
+  },
+  {
+    "title": ":honey_pot:",
+    "character": "🍯"
+  },
+  {
+    "title": ":baby_bottle:",
+    "character": "🍼"
+  },
+  {
+    "title": ":glass_of_milk:",
+    "character": "🥛"
+  },
+  {
+    "title": ":hot_beverage:",
+    "character": "☕"
+  },
+  {
+    "title": ":teacup_without_handle:",
+    "character": "🍵"
+  },
+  {
+    "title": ":sake:",
+    "character": "🍶"
+  },
+  {
+    "title": ":bottle_with_popping_cork:",
+    "character": "🍾"
+  },
+  {
+    "title": ":wine_glass:",
+    "character": "🍷"
+  },
+  {
+    "title": ":cocktail_glass:",
+    "character": "🍸"
+  },
+  {
+    "title": ":tropical_drink:",
+    "character": "🍹"
+  },
+  {
+    "title": ":beer_mug:",
+    "character": "🍺"
+  },
+  {
+    "title": ":clinking_beer_mugs:",
+    "character": "🍻"
+  },
+  {
+    "title": ":clinking_glasses:",
+    "character": "🥂"
+  },
+  {
+    "title": ":tumbler_glass:",
+    "character": "🥃"
+  },
+  {
+    "title": ":cup_with_straw:",
+    "character": "🥤"
+  },
+  {
+    "title": ":chopsticks:",
+    "character": "🥢"
+  },
+  {
+    "title": ":fork_and_knife_with_plate:",
+    "character": "🍽"
+  },
+  {
+    "title": ":fork_and_knife:",
+    "character": "🍴"
+  },
+  {
+    "title": ":spoon:",
+    "character": "🥄"
+  },
+  {
+    "title": ":kitchen_knife:",
+    "character": "🔪"
+  },
+  {
+    "title": ":amphora:",
+    "character": "🏺"
+  }
+]
