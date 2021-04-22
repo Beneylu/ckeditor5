@@ -309,7 +309,7 @@ ClassicEditor.builtinPlugins = [
 	TableToolbar,
 	TextTransformation,
 	// Placeholder,
-	// SimpleUploadAdapter,
+	SimpleUploadAdapter,
 	// SimpleBoxPlugin,
 	Emojis,
 	AnimatedEmojis,
