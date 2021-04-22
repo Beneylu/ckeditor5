@@ -32,6 +32,8 @@ import SimpleUploadAdapter from '@ckeditor/ckeditor5-upload/src/adapters/simpleu
 import Table from '@ckeditor/ckeditor5-table/src/table';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar';
 import TextTransformation from '@ckeditor/ckeditor5-typing/src/texttransformation';
+import FontFamily from '@ckeditor/ckeditor5-font/src/fontfamily.js';
+import FontSize from '@ckeditor/ckeditor5-font/src/fontsize.js';
 
 // import Plugin from '@ckeditor/ckeditor5-core/src/plugin';
 // import { toWidget, viewToModelPositionOutsideModelElement } from '@ckeditor/ckeditor5-widget/src/utils';
@@ -288,6 +290,8 @@ ClassicEditor.builtinPlugins = [
 	BlockQuote,
 	CKFinder,
 	EasyImage,
+	FontFamily,
+	FontSize,
 	Heading,
 	Image,
 	ImageCaption,
@@ -308,7 +312,7 @@ ClassicEditor.builtinPlugins = [
 	// SimpleUploadAdapter,
 	// SimpleBoxPlugin,
 	Emojis,
-	AnimatedEmojis
+	AnimatedEmojis,
 ];
 
 // Editor configuration.
@@ -316,6 +320,8 @@ ClassicEditor.defaultConfig = {
 	toolbar: {
 		items: [
 			'heading',
+			'fontSize',
+			'fontFamily',
 			'|',
 			'bold',
 			'italic',
@@ -325,7 +331,7 @@ ClassicEditor.defaultConfig = {
 			'|',
 			'indent',
 			'outdent',
-			'|',
+			'-',
 			'imageUpload',
 			'imageInsert',
 			'blockQuote',
@@ -336,10 +342,12 @@ ClassicEditor.defaultConfig = {
 			'redo',
 			'|',
 			'Emojis',
-			'animatedEmojis'
+			'animatedEmojis',
+
 			// 'placeholder',
 			// 'simpleBox',
-		]
+		],
+		shouldNotGroupWhenFull: true
 	},
 	image: {
 		toolbar: [
