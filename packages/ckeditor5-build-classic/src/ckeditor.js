@@ -34,6 +34,8 @@ import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar';
 import TextTransformation from '@ckeditor/ckeditor5-typing/src/texttransformation';
 import FontFamily from '@ckeditor/ckeditor5-font/src/fontfamily.js';
 import FontSize from '@ckeditor/ckeditor5-font/src/fontsize.js';
+import FontBackgroundColor from '@ckeditor/ckeditor5-font/src/fontbackgroundcolor.js';
+import FontColor from '@ckeditor/ckeditor5-font/src/fontcolor.js';
 
 // import Plugin from '@ckeditor/ckeditor5-core/src/plugin';
 // import { toWidget, viewToModelPositionOutsideModelElement } from '@ckeditor/ckeditor5-widget/src/utils';
@@ -44,7 +46,7 @@ import FontSize from '@ckeditor/ckeditor5-font/src/fontsize.js';
 // import Model from '@ckeditor/ckeditor5-ui/src/model';
 import ImageInsert from '@ckeditor/ckeditor5-image/src/imageinsert';
 // import ButtonView from '@ckeditor/ckeditor5-ui/src/button/buttonview';
-// import SimpleBoxPlugin from 'ckeditor5-medialibrary';
+import SimpleBoxPlugin from 'ckeditor5-medialibrary';
 
 // class Placeholder extends Plugin {
 // 	static get requires() {
@@ -254,29 +256,29 @@ import ImageInsert from '@ckeditor/ckeditor5-image/src/imageinsert';
 // }
 //
 //
-class MediaLibraryPlugin extends Plugin {
-	init() {
-		const editor = this.editor;
-
-		editor.ui.componentFactory.add('medialibrary', locale => {
-			const view = new ButtonView(locale);
-
-			view.set({
-				label: 'mediathèque',
-				class: 'medialibrary-icon',
-				tooltip: true
-			});
-
-			// Callback executed once the icon is clicked
-			view.on('execute', () => {
-				// fire a JS event
-				editor.fire('open-medialibrary');
-			});
-
-			return view;
-		});
-	}
-}
+// class MediaLibraryPlugin extends Plugin {
+// 	init() {
+// 		const editor = this.editor;
+//
+// 		editor.ui.componentFactory.add('medialibrary', locale => {
+// 			const view = new ButtonView(locale);
+//
+// 			view.set({
+// 				label: 'mediathèque',
+// 				class: 'medialibrary-icon',
+// 				tooltip: true
+// 			});
+//
+// 			// Callback executed once the icon is clicked
+// 			view.on('execute', () => {
+// 				// fire a JS event
+// 				editor.fire('open-medialibrary');
+// 			});
+//
+// 			return view;
+// 		});
+// 	}
+// }
 
 export default class ClassicEditor extends ClassicEditorBase {}
 
@@ -292,6 +294,8 @@ ClassicEditor.builtinPlugins = [
 	EasyImage,
 	FontFamily,
 	FontSize,
+	FontBackgroundColor,
+	FontColor,
 	Heading,
 	Image,
 	ImageCaption,
@@ -310,7 +314,7 @@ ClassicEditor.builtinPlugins = [
 	TextTransformation,
 	// Placeholder,
 	SimpleUploadAdapter,
-	// SimpleBoxPlugin,
+	SimpleBoxPlugin,
 	Emojis,
 	AnimatedEmojis,
 ];
@@ -322,6 +326,8 @@ ClassicEditor.defaultConfig = {
 			'heading',
 			'fontSize',
 			'fontFamily',
+			'FontBackgroundColor',
+			'FontColor',
 			'|',
 			'bold',
 			'italic',
@@ -343,9 +349,7 @@ ClassicEditor.defaultConfig = {
 			'|',
 			'Emojis',
 			'animatedEmojis',
-
-			// 'placeholder',
-			// 'simpleBox',
+			'medialibrary',
 		],
 		shouldNotGroupWhenFull: true
 	},
