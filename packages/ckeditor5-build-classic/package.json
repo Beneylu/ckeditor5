@@ -49,7 +49,7 @@
     "@ckeditor/ckeditor5-table": "^24.0.0",
     "@ckeditor/ckeditor5-typing": "^24.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^24.0.0",
-    "@harrisonlucas/ckeditor5-emojis": "^1.0.0",
+    "@harrisonlucas/ckeditor5-emojis": "github:Beneylu/ckeditor5-emojis#master",
     "ckeditor5-medialibrary": "file:../ckeditor5-medialibrary",
     "ckeditor5-animated-emojis": "file:../ckeditor5-animated-emojis",
     "postcss-loader": "^3.0.0",
