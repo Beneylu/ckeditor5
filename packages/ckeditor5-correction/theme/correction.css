@@ -1,0 +1,47 @@
+:root {
+	--correction-color-NOUN: hsl(207, 89%, 68%); /* blue-300 #64B5F6 */
+	--correction-color-VERB: hsl(123, 38%, 64%); /* #81C784 green-300 */
+	--correction-color-HOMOPHONIC: hsl(27, 100%, 47%); /* #EF6C00 orange-800 */
+	--correction-color-VOCABULARY: hsl(60, 100%, 50%); /* #FFFF00 yellow-A200 */
+	--correction-color-PUNCTUATION: hsl(262, 47%, 63%); /* #9575CD deep-purple-300 */
+	--correction-color-NONE: hsl(200, 16%, 62%); /* #90A4AE color-blue-grey-300 */
+}
+
+/* annotations in content */
+[data-bns-annotation] {
+	box-shadow: inset 0 0 0 1px hsla(0, 0%, 0%, 0.12);
+}
+
+/* buttons in toolbar */
+.ck.ck-button.bns-annotation-btn {
+	border: 1px solid hsla(0, 0%, 0%, 0.12);
+}
+.ck.ck-button.bns-annotation-btn:hover {
+	filter: brightness(85%);
+}
+
+/* color variation */
+.ck.ck-button.bns-annotation-btn-NOUN,
+[data-bns-annotation="NOUN"] {
+	background-color: var(--correction-color-NOUN) !important;
+}
+.ck.ck-button.bns-annotation-btn-VERB,
+[data-bns-annotation="VERB"] {
+	background-color: var(--correction-color-VERB) !important;
+}
+.ck.ck-button.bns-annotation-btn-HOMOPHONIC,
+[data-bns-annotation="HOMOPHONIC"] {
+	background-color: var(--correction-color-HOMOPHONIC) !important;
+}
+.ck.ck-button.bns-annotation-btn-VOCABULARY,
+[data-bns-annotation="VOCABULARY"] {
+	background-color: var(--correction-color-VOCABULARY) !important;
+}
+.ck.ck-button.bns-annotation-btn-PUNCTUATION,
+[data-bns-annotation="PUNCTUATION"] {
+	background-color: var(--correction-color-PUNCTUATION) !important;
+}
+.ck.ck-button.bns-annotation-btn-NONE,
+[data-bns-annotation="NONE"] {
+	background-color: var(--correction-color-NONE) !important;
+}
