@@ -14,10 +14,16 @@
 
 <h1>CKEditor 5 – classic editor build – development sample</h1>
 
+<button id="removeAnnotation">remove 1st annotation</button>
+
 <div id="editor">
 	<h2>Sample</h2>
 
 	<p>This is an instance of the <a href="https://ckeditor.com/docs/ckeditor5/latest/builds/guides/overview.html#classic-editor">classic editor build</a>.</p>
+
+	<p>Wayfarers craft beer four dollar toast readymade. Drinking  <span data-bns-annotation="VERB" data-bns-annotation-guid="11111111-2222-3333-4444-555555555555">vinegar <strong>taiyaki</strong> thundercats</span>, keffiyeh yr YOLO shaman ramps asymmetrical post-ironic lo-fi air plant everyday <span data-bns-annotation="NONE" data-bns-annotation-guid="22222222-2222-3333-4444-555555555555">carry woke marfa</span>. Plaid franzen leggings, actually humblebrag twee tote bag portland jean shorts. 8-bit keffiyeh distillery chicharrones, leggings la croix photo booth kale chips iceland poutine banjo seitan you probably haven't heard of them.</p>
+	<p>Gluten-free kogi scenester, <span data-bns-annotation="NOUN" data-bns-annotation-guid="33333333-2222-3333-4444-555555555555">swag <span data-bns-annotation="NONE" data-bns-annotation-guid="44444444-2222-3333-4444-555555555555">bitters</span> hell</span> of wayfarers stumptown palo santo paleo lyft succulents. Waistcoat meggings fashion axe lumbersexual organic hoodie. Biodiesel chartreuse cliche intelligentsia lyft four dollar toast polaroid waistcoat 90's, glossier organic fixie bushwick kale chips. Meditation celiac migas, hoodie humblebrag tbh blog single-origin coffee man braid. Quinoa kombucha pop-up letterpress jean shorts cliche brooklyn cred whatever. Cardigan chartreuse neutra tumblr sartorial craft beer locavore bushwick wayfarers cred yr vexillologist skateboard. Pinterest vape pug venmo letterpress synth, helvetica seitan.</p>
+	<p>Authentic literally slow-carb, edison bulb street art brunch mumblecore bitters activated charcoal portland. Portland everyday carry tumeric bushwick celiac church-key. Chillwave authentic venmo meditation post-ironic fanny pack hammock 3 wolf moon selvage. Tumblr edison bulb squid actually lomo humblebrag readymade cred blue bottle thundercats flannel mustache roof party. Butcher enamel pin fixie williamsburg, tousled polaroid vice tumblr hammock hashtag banh mi. Neutra pitchfork trust fund XOXO, gluten-free enamel pin godard intelligentsia single-origin coffee.</p>
 
 	<figure class="image">
 		<img src="../tests/manual/sample.jpg" alt="Autumn fields" />
@@ -81,6 +87,10 @@
 					);
 				} );
 			} );
+
+			document.getElementById('removeAnnotation').onclick = () => {
+				editor.fire('annotation:remove', { guid: '11111111-2222-3333-4444-555555555555' });
+			};
 
 		} )
 		.catch( error => {
