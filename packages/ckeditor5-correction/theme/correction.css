@@ -22,26 +22,26 @@
 
 /* color variation */
 .ck.ck-button.bns-annotation-btn-NOUN,
-[data-bns-annotation="NOUN"] {
+.ck-editor [data-bns-annotation="NOUN"] {
 	background-color: var(--correction-color-NOUN) !important;
 }
 .ck.ck-button.bns-annotation-btn-VERB,
-[data-bns-annotation="VERB"] {
+.ck-editor [data-bns-annotation="VERB"] {
 	background-color: var(--correction-color-VERB) !important;
 }
 .ck.ck-button.bns-annotation-btn-HOMOPHONIC,
-[data-bns-annotation="HOMOPHONIC"] {
+.ck-editor [data-bns-annotation="HOMOPHONIC"] {
 	background-color: var(--correction-color-HOMOPHONIC) !important;
 }
 .ck.ck-button.bns-annotation-btn-VOCABULARY,
-[data-bns-annotation="VOCABULARY"] {
+.ck-editor [data-bns-annotation="VOCABULARY"] {
 	background-color: var(--correction-color-VOCABULARY) !important;
 }
 .ck.ck-button.bns-annotation-btn-PUNCTUATION,
-[data-bns-annotation="PUNCTUATION"] {
+.ck-editor [data-bns-annotation="PUNCTUATION"] {
 	background-color: var(--correction-color-PUNCTUATION) !important;
 }
 .ck.ck-button.bns-annotation-btn-NONE,
-[data-bns-annotation="NONE"] {
+.ck-editor [data-bns-annotation="NONE"] {
 	background-color: var(--correction-color-NONE) !important;
 }
