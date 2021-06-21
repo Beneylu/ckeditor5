@@ -1,0 +1,14 @@
+.editor-simple .ck-font-family-dropdown,
+.editor-simple .ck-alignment-dropdown,
+/* ul */
+.editor-simple .ck-alignment-dropdown + .ck-button,
+/* ol */
+.editor-simple .ck-alignment-dropdown + .ck-button + .ck-button,
+/* indent */
+.editor-simple .ck-alignment-dropdown + .ck-button + .ck-button + .ck-button,
+/* outdent */
+.editor-simple .ck-alignment-dropdown + .ck-button + .ck-button + .ck-button + .ck-button,
+/* separator */
+.editor-simple .ck-alignment-dropdown + .ck-button + .ck-button + .ck-button + .ck-button + .ck-toolbar__separator {
+	display: none;
+}
