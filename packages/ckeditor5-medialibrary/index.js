@@ -4,6 +4,8 @@ import Widget from '../ckeditor5-build-classic/node_modules/@ckeditor/ckeditor5-
 import Command from '../ckeditor5-build-classic/node_modules/@ckeditor/ckeditor5-core/src/command';
 import ButtonView from '../ckeditor5-build-classic/node_modules/@ckeditor/ckeditor5-ui/src/button/buttonview';
 
+import iconPath from './medialibrary.svg';
+
 export default class SimpleBox extends Plugin {
 
 	static get requires() {
@@ -19,8 +21,10 @@ class SimpleBoxUI extends Plugin {
 			const view = new ButtonView(locale);
 
 			view.set({
-				label: 'mediathèque',
+				label: 'Média',
 				class: 'medialibrary-icon',
+				icon: iconPath,
+				withText: true,
 				tooltip: true
 			});
 

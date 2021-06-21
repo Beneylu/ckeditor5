@@ -8,6 +8,7 @@ import CharacterInfoView from './ui/characterinfoview';
 
 import emojiIcon from '../theme/icons/face.svg';
 import '../theme/specialcharacters.css';
+import '../theme/emojis.css';
 import activities from '../data/activities.json';
 import food from '../data/food.json';
 import nature from '../data/nature.json';
@@ -83,8 +84,9 @@ export default class Emojis extends Plugin {
 			let dropdownPanelContent;
 
 			dropdownView.buttonView.set( {
-				label: t( 'Emojis' ),
+				label: t( 'Emojis animés' ),
 				icon: emojiIcon,
+				class: 'bns-animated-emoji-btn',
 				tooltip: true
 			} );
 
