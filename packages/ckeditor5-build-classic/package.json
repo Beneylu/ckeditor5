@@ -53,6 +53,7 @@
     "ckeditor5-medialibrary": "file:../ckeditor5-medialibrary",
     "ckeditor5-animated-emojis": "file:../ckeditor5-animated-emojis",
     "@beneylu/ckeditor5-correction": "file:../ckeditor5-correction",
+    "@beneylu/ckeditor5-mode": "file:../ckeditor5-mode",
     "postcss-loader": "^3.0.0",
     "raw-loader": "^4.0.1",
     "style-loader": "^1.2.1",

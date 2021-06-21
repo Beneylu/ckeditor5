@@ -14,10 +14,8 @@ import Bold from '@ckeditor/ckeditor5-basic-styles/src/bold';
 import Italic from '@ckeditor/ckeditor5-basic-styles/src/italic';
 import Strikethrough from '@ckeditor/ckeditor5-basic-styles/src/strikethrough';
 import Underline from '@ckeditor/ckeditor5-basic-styles/src/underline';
-import BlockQuote from '@ckeditor/ckeditor5-block-quote/src/blockquote';
 import CKFinder from '@ckeditor/ckeditor5-ckfinder/src/ckfinder';
 import EasyImage from '@ckeditor/ckeditor5-easy-image/src/easyimage';
-import Heading from '@ckeditor/ckeditor5-heading/src/heading';
 import Image from '@ckeditor/ckeditor5-image/src/image';
 import ImageCaption from '@ckeditor/ckeditor5-image/src/imagecaption';
 import ImageStyle from '@ckeditor/ckeditor5-image/src/imagestyle';
@@ -29,6 +27,7 @@ import Paragraph from '@ckeditor/ckeditor5-paragraph/src/paragraph';
 import AnimatedEmojis from 'ckeditor5-animated-emojis/src/emojis';
 import Emojis from '@harrisonlucas/ckeditor5-emojis/src/emojis';
 import Correction from '@beneylu/ckeditor5-correction/src/correction';
+import Mode from '@beneylu/ckeditor5-mode/src/mode';
 import PasteFromOffice from '@ckeditor/ckeditor5-paste-from-office/src/pastefromoffice';
 import SimpleUploadAdapter from '@ckeditor/ckeditor5-upload/src/adapters/simpleuploadadapter';
 import Table from '@ckeditor/ckeditor5-table/src/table';
@@ -52,14 +51,12 @@ ClassicEditor.builtinPlugins = [
 	Italic,
 	Strikethrough,
 	Underline,
-	BlockQuote,
 	CKFinder,
 	EasyImage,
 	FontFamily,
 	FontSize,
 	FontBackgroundColor,
 	FontColor,
-	Heading,
 	Image,
 	ImageCaption,
 	ImageStyle,
@@ -76,6 +73,7 @@ ClassicEditor.builtinPlugins = [
 	SimpleBoxPlugin,
 	Emojis,
 	AnimatedEmojis,
+	Mode,
 	Correction
 ];
 
@@ -83,10 +81,9 @@ ClassicEditor.builtinPlugins = [
 ClassicEditor.defaultConfig = {
 	toolbar: {
 		items: [
+			'Mode',
 			'Undo',
 			'Redo',
-			'|',
-			'Heading',
 			'|',
 			'FontFamily',
 			'FontSize',
@@ -104,7 +101,6 @@ ClassicEditor.defaultConfig = {
 			'NumberedList',
 			'Indent',
 			'Outdent',
-			'BlockQuote',
 			'|',
 			'insertTable',
 			'Emojis',
